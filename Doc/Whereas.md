@@ -204,32 +204,32 @@ Taking into account the iterative nature of software development, manufacturers 
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(41) When a substantial modification or change of intended purpose may affect a product’s compliance, its conformity must be re-checked (including a new third-party assessment where relevant, with any such changes notified to that third party).</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(42) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(43) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(44) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(45) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(46) ...</strong></summary>
 ...
 </details>
 
