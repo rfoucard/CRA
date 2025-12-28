@@ -319,28 +319,28 @@ Manufacturers should set up a single point of contact that enables users to comm
 </details>
 
 <details>
-  <summary><strong>(64) ...</strong></summary>
-...
+  <summary><strong>(64) Manufacturers must ship products securely configured by default</strong> and provide free security updates, with deviations allowed only for custom-made products under explicit contractual agreement with a specific business user.</summary>
+Manufacturers should make their products with digital elements available on the market with a secure by default configuration and provide security updates to users free of charge. Manufacturers should only be able to deviate from the essential cybersecurity requirements in relation to tailor-made products that are fitted to a particular purpose for a particular business user and where both the manufacturer and the user have explicitly agreed to a different set of contractual terms.
 </details>
 
 <details>
-  <summary><strong>(65) ...</strong></summary>
-...
+  <summary><strong>(65) Manufacturers must use the single reporting platform to notify the coordinating CSIRT and ENISA at the same time</strong> about actively exploited vulnerabilities and severe security incidents in their products.</summary>
+Manufacturers should notify simultaneously via the single reporting platform both the computer security incident response team (CSIRT) designated as coordinator as well as ENISA of actively exploited vulnerabilities contained in products with digital elements, as well as severe incidents having an impact on the security of those products. The notifications should be submitted using the electronic notification end-point of a CSIRT designated as coordinator and should be simultaneously accessible to ENISA.
 </details>
 
 <details>
-  <summary><strong>(66) ...</strong></summary>
-...
+  <summary><strong>(66) Manufacturers must report actively exploited vulnerabilities so CSIRTs and ENISA can oversee them, publish fixed ones in the EU vulnerability database, and thus protect the internal market and raise cybersecurity for essential and important entities.</strong></summary>
+Manufacturers should notify actively exploited vulnerabilities to ensure that the CSIRTs designated as coordinators, and ENISA, have an adequate overview of such vulnerabilities and are provided with the information necessary to fulfil their tasks as set out in Directive (EU) 2022/2555 and raise the overall level of cybersecurity of essential and important entities as referred to in Article 3 of that Directive, as well as to ensure the effective functioning of market surveillance authorities. As most products with digital elements are marketed across the entire internal market, any exploited vulnerability in a product with digital elements should be considered to be a threat to the functioning of the internal market. ENISA should, in agreement with the manufacturer, disclose fixed vulnerabilities to the European vulnerability database established pursuant to Article 12(2) of Directive (EU) 2022/2555. The European vulnerability database will assist manufacturers in detecting known exploitable vulnerabilities in their products, in order to ensure that secure products are made available on the market.
 </details>
 
 <details>
-  <summary><strong>(67) ...</strong></summary>
-...
+  <summary><strong>(67) Manufacturers must report any severe security incident to the coordinating CSIRT and ENISA, and quickly inform users (with possible mitigation steps) via their website or direct contact when justified by the risk.</strong></summary>
+Manufacturers should also notify any severe incident having an impact on the security of the product with digital elements to the CSIRT designated as coordinator and ENISA. In order to ensure that users can react quickly to severe incidents having an impact on the security of their products with digital elements, manufacturers should also inform their users about any such incident and, where applicable, about any corrective measures that the users can deploy to mitigate the impact of the incident, for example by publishing relevant information on their websites or, where the manufacturer is able to contact the users and where justified by the cybersecurity risks, by reaching out to the users directly.
 </details>
 
 <details>
-  <summary><strong>(68) ...</strong></summary>
-...
+  <summary><strong>(68) An actively exploited vulnerability</strong> is a flaw attackers are already using to breach users of a product and must be notified, while <strong>a severe incident</strong> is an attack on the manufacturer’s own development/production/maintenance (e.g. poisoning the update channel) that raises users’ cybersecurity risk.</summary>
+Actively exploited vulnerabilities concern instances where a manufacturer establishes that a security breach affecting its users or any other natural or legal persons has resulted from a malicious actor making use of a flaw in one of the products with digital elements made available on the market by the manufacturer. Examples of such vulnerabilities could be weaknesses in a product’s identification and authentication functions. Vulnerabilities that are discovered with no malicious intent for purposes of good faith testing, investigation, correction or disclosure to promote the security or safety of the system owner and its users should not be subject to mandatory notification. Severe incidents having an impact on the security of the product with digital elements, on the other hand, refer to situations where a cybersecurity incident affects the development, production or maintenance processes of the manufacturer in such a way that it could result in an increased cybersecurity risk for users or other persons. Such a severe incident could include a situation where an attacker has successfully introduced malicious code into the release channel via which the manufacturer releases security updates to users.
 </details>
 
 <details>
