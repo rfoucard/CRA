@@ -209,23 +209,23 @@ Taking into account the iterative nature of software development, manufacturers 
 </details>
 
 <details>
-  <summary><strong>(42) ...</strong></summary>
-...
+  <summary><strong>(42) Refurbishment, maintenance or repair do not usually count as substantial modifications if purpose, functions and risk stay the same, but an upgrade that changes design or purpose can affect compliance and becomes substantial.</strong></summary>
+Where a product with digital elements is subject to ‘refurbishment’, ‘maintenance’ and ‘repair’ as defined in Article 2, points (18), (19) and (20), of Regulation (EU) 2024/1781 of the European Parliament and of the Council (19), this does not necessarily lead to a substantial modification of the product, for instance if the intended purpose and functionalities are not changed and the level of risk remains unaffected. However, an upgrade of a product with digital elements by the manufacturer might lead to changes in the design and development of that product and might therefore affect its intended purpose and compliance with the requirements set out in this Regulation.
 </details>
 
 <details>
-  <summary><strong>(43) ...</strong></summary>
-...
+  <summary><strong>(43) Products with digital elements are “important” when exploiting their vulnerabilities could severely harm many other products or users, especially when they have cybersecurity functions or central system roles like network management or personal data processing.</strong></summary>
+Products with digital elements should be considered to be important if the negative impact of the exploitation of potential vulnerabilities in the product can be severe due to, inter alia, the cybersecurity-related functionality or a function carrying a significant risk of adverse effects in terms of its intensity and ability to disrupt, control or cause damage to a large number of other products with digital elements or to the health, security or safety of its users through direct manipulation, such as a central system function, including network management, configuration control, virtualisation or processing of personal data. In particular, vulnerabilities in products with digital elements that have a cybersecurity-related functionality, such as boot managers, can lead to a propagation of security issues throughout the supply chain. The severity of the impact of an incident may also increase where the product primarily performs a central system function, including network management, configuration control, virtualisation or processing of personal data.
 </details>
 
 <details>
-  <summary><strong>(44) ...</strong></summary>
-...
+  <summary><strong>(44) Some important digital products are split into two risk-based classes, with higher-risk class II products facing stricter conformity checks than class I.</strong></summary>
+Certain categories of products with digital elements should be subject to stricter conformity assessment procedures, while keeping a proportionate approach. For that purpose, important products with digital elements should be divided into two classes, reflecting the level of cybersecurity risk linked to those categories of products. An incident involving important products with digital elements that fall under class II might lead to greater negative impacts than an incident involving important products with digital elements that fall under class I, for instance due to the nature of their cybersecurity-related function or the performance of another function which carries a significant risk of adverse effects. As an indication of such greater negative impacts, products with digital elements that fall under class II could either perform a cybersecurity-related functionality or another function which carries a significant risk of adverse effects that is higher than for those listed in class I, or meet both of the aforementioned criteria. Important products with digital elements that fall under class II should therefore be subject to a stricter conformity assessment procedure.
 </details>
 
 <details>
-  <summary><strong>(45) ...</strong></summary>
-...
+  <summary><strong>(45) Only products whose core function matches an “important” category require mandatory third-party conformity assessment</strong>, and the Commission will further detail these categories by implementing act.</summary>
+Important products with digital elements as referred to in this Regulation should be understood as products which have the core functionality of a category of important products with digital elements that is set out in this Regulation. For example, this Regulation sets out categories of important products with digital elements which are defined by their core functionality as firewalls or intrusion detection or prevention systems in class II. As a result, firewalls and intrusion detection or prevention systems are subject to mandatory third-party conformity assessment. This is not the case for other products with digital elements not categorised as important products with digital elements which may integrate firewalls or intrusion detection or prevention systems. The Commission should adopt an implementing act to specify the technical description of the categories of important products with digital elements that fall under classes I and II as set out in this Regulation.
 </details>
 
 <details>
