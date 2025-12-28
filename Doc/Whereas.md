@@ -1,8 +1,9 @@
-Time to read :
+# Cyber Resilience Act – Recitals (“Whereas”) Overview & Structure
 
-15 min (reading only the summaries)
+Summaries and full text of the Cyber Resilience Act recitals (“Whereas”), grouped by theme to show the structure and logic of the Regulation.
 
-1 hour (reading summaries and original texts details)
+- **Estimated reading time (summaries only):** ~15 minutes  
+- **Estimated reading time (full text + summaries):** ~60 minutes
 
 ## 1. Context & objectives (recitals 1–8)
 
