@@ -129,8 +129,8 @@ Regulation (EU) 2017/745 of the European Parliament and of the Council (9) lays 
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
-...
+  <summary><strong>(26) This Regulation does not cover products for national security, defence or classified information, but Member States should give them equal or higher protection.</strong></summary>
+Products with digital elements that are developed or modified exclusively for national security or defence purposes or products that are specifically designed to process classified information fall outside the scope of this Regulation. Member States are encouraged to ensure the same or a higher level of protection for those products as for those falling within the scope of this Regulation.
 </details>
 
 <details>
