@@ -154,52 +154,52 @@ Commission Delegated Regulation (EU) 2022/30 (14) specifies that a number of ess
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(31) This Regulation complements Directive (EU) 2024/2853, under which manufacturers are strictly liable for damage caused by unsafe products</strong>, including missing security updates, and therefore must provide such updates as required here.</summary>
+Directive (EU) 2024/2853 of the European Parliament and of the Council (16) is complementary to this Regulation. That Directive sets out liability rules for defective products so that injured persons can claim compensation when a damage has been caused by defective products. It establishes the principle that the manufacturer of a product is liable for damages caused by a lack of safety in their product irrespective of fault (strict liability). Where such a lack of safety consists in a lack of security updates after the placing on the market of the product, and this causes damage, the liability of the manufacturer could be triggered. Obligations for manufacturers that concern the provision of such security updates should be laid down in this Regulation.
+</details>
+
+<details>
+  <summary><strong>(32) This Regulation leaves GDPR unchanged</strong> but, because its cybersecurity rules also strengthen data protection, authorities and standardisation bodies for cybersecurity and data protection must cooperate and share relevant information.</summary>
+This Regulation should be without prejudice to Regulation (EU) 2016/679 of the European Parliament and of the Council (17), including to provisions relating to the establishment of data protection certification mechanisms and of data protection seals and marks, for the purpose of demonstrating compliance of processing operations by controllers and processors with that Regulation. Such operations could be embedded in a product with digital elements. Data protection by design and by default, and cybersecurity in general, are key elements of Regulation (EU) 2016/679. By protecting consumers and organisations from cybersecurity risks, the essential cybersecurity requirements laid down in this Regulation are also to contribute to enhancing the protection of personal data and privacy of individuals. Synergies on both standardisation and certification of cybersecurity aspects should be considered through the cooperation between the Commission, the European standardisation organisations, the European Union Agency for Cybersecurity (ENISA), the European Data Protection Board established by Regulation (EU) 2016/679, and the national data protection supervisory authorities. Synergies between this Regulation and Union data protection law should also be created in the area of market surveillance and enforcement. To that end, national market surveillance authorities designated under this Regulation should cooperate with authorities supervising the application of Union data protection law. The latter should also have access to information relevant for accomplishing their tasks.
+</details>
+
+<details>
+  <summary><strong>(33) European Digital Identity Wallet providers must meet both this Regulation’s essential cybersecurity requirements and eIDAS Article 5a, and can show compliance by certifying their wallets under an EU cybersecurity certification scheme that gives presumption of conformity.</strong></summary>
+To the extent that their products fall within the scope of this Regulation, providers of European Digital Identity Wallets as referred to in Article 5a(2) of Regulation (EU) No 910/2014 of the European Parliament and of the Council (18), should comply with both the horizontal essential cybersecurity requirements set out in this Regulation and the specific security requirements set out in Article 5a of Regulation (EU) No 910/2014. In order to facilitate compliance, wallet providers should be able to demonstrate the compliance of European Digital Identity Wallets with the requirements set out in this Regulation and in Regulation (EU) No 910/2014, respectively, by certifying their products under a European cybersecurity certification scheme established under Regulation (EU) 2019/881 and for which the Commission has specified, by means of delegated acts, a presumption of conformity with this Regulation, in so far as the certificate, or parts thereof, covers those requirements.
+</details>
+
+<details>
+  <summary><strong>(34) When manufacturers integrate third-party components, including non-market FOSS, they must do risk-based due diligence</strong> (check conformity, updates, vulnerabilities or test security) and then handle any discovered vulnerabilities for the whole product, informing and, where relevant, sharing fixes with the component maintainer.</summary>
+When integrating components sourced from third parties in products with digital elements during the design and development phase, manufacturers should, in order to ensure that the products are designed, developed and produced in accordance with the essential cybersecurity requirements set out in this Regulation, exercise due diligence with regard to those components, including free and open-source software components that have not been made available on the market. The appropriate level of due diligence depends on the nature and the level of cybersecurity risk associated with a given component, and should, for that purpose, take into account one or more of the following actions: verifying, as applicable, that the manufacturer of a component has demonstrated conformity with this Regulation, including by checking if the component already bears the CE marking; verifying that a component receives regular security updates, such as by checking its security updates history; verifying that a component is free from vulnerabilities registered in the European vulnerability database established pursuant to Article 12(2) of Directive (EU) 2022/2555 or other publicly accessible vulnerability databases; or carrying out additional security tests. The vulnerability handling obligations set out in this Regulation, which manufacturers have to comply with when placing a product with digital elements on the market and for the support period, apply to products with digital elements in their entirety, including to all integrated components. Where, in the exercise of due diligence, the manufacturer of the product with digital elements identifies a vulnerability in a component, including in a free and open-source component, it should inform the person or entity manufacturing or maintaining the component, address and remediate the vulnerability, and, where applicable, provide the person or entity with the applied security fix.
+</details>
+
+<details>
+  <summary><strong>(35) If manufacturers cannot yet verify that third-party components comply with this Regulation (for example via CE marking), they must exercise due diligence by other means.</strong></summary>
+Immediately after the transitional period for the application of this Regulation, a manufacturer of a product with digital elements that integrates one or several components sourced from third parties which are also subject to this Regulation may not be able to verify, as part of its due diligence obligation, that the manufacturers of those components have demonstrated conformity with this Regulation by checking, for instance, if the components already bear the CE marking. This may be the case where the components have been integrated before this Regulation becomes applicable to the manufacturers of those components. In such a case, a manufacturer integrating such components should exercise due diligence through other means.
+</details>
+
+<details>
+  <summary><strong>(36) Products must bear the CE marking to circulate freely, but non-compliant prototypes can still be shown at events if clearly labelled as not for sale.</strong></summary>
+Products with digital elements should bear the CE marking to visibly, legibly and indelibly indicate their conformity with this Regulation so that they can move freely within the internal market. Member States should not create unjustified obstacles to the placing on the market of products with digital elements that comply with the requirements laid down in this Regulation and bear the CE marking. Furthermore, at trade fairs, exhibitions and demonstrations or similar events, Member States should not prevent the presentation or use of a product with digital elements which does not comply with this Regulation, including its prototypes, provided that the product is presented with a visible sign clearly indicating that the product does not comply with this Regulation and that it is not to be made available on the market until it does so.
+</details>
+
+<details>
+  <summary><strong>(37) Manufacturers may release unfinished software for testing for a limited time</strong>, but only after a risk assessment, while meeting security and vulnerability-handling requirements as far as possible, and without forcing users to upgrade to these test versions.</summary>
+In order to ensure that manufacturers can release software for testing purposes before subjecting their products with digital elements to conformity assessment, Member States should not prevent the making available of unfinished software, such as alpha versions, beta versions or release candidates, provided that the unfinished software is made available only for the time necessary to test it and gather feedback. Manufacturers should ensure that software made available under those conditions is released only following a risk assessment and that it complies to the extent possible with the security requirements relating to the properties of products with digital elements laid down in this Regulation. Manufacturers should also implement the vulnerability handling requirements to the extent possible. Manufacturers should not force users to upgrade to versions only released for testing purposes.
+</details>
+
+<details>
+  <summary><strong>(38) A substantial modification is any later physical or digital change to a product with digital elements that was not foreseen in the manufacturer’s initial risk assessment and may mean it no longer meets the essential cybersecurity requirements.</strong></summary>
+In order to ensure that products with digital elements, when placed on the market, do not pose cybersecurity risks to persons and organisations, essential cybersecurity requirements should be set out for such products. Those essential cybersecurity requirements, including vulnerability management handling requirements, apply to each individual product with digital elements when placed on the market, irrespective of whether the product with digital elements is manufactured as an individual unit or in series. For example, for a product type, each individual product with digital elements should have received all security patches or updates available to address relevant security issues when it is placed on the market. Where products with digital elements are subsequently modified, by physical or digital means, in a way that is not foreseen by the manufacturer in the initial risk assessment and that may imply that they no longer meet the relevant essential cybersecurity requirements, the modification should be considered to be substantial. For example, repairs could be assimilated to maintenance operations provided that they do not modify a product with digital elements already placed on the market in such a way that compliance with the applicable requirements may be affected, or that the intended purpose for which the product has been assessed may be changed.
+</details>
+
+<details>
+  <summary><strong>(39) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(40) ...</strong></summary>
 ...
 </details>
 
