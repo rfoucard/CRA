@@ -294,23 +294,23 @@ The joint communication of the Commission and the High Representative of the Uni
 </details>
 
 <details>
-  <summary><strong>(59) ...</strong></summary>
-...
+  <summary><strong>(59) Manufacturers must set a proportionate support period that matches how long the product is expected to be used</strong>, explain their criteria (user expectations, product nature, relevant EU rules, etc.), and share this justification with market surveillance authorities on request.</summary>
+For the purpose of ensuring the security of products with digital elements after their placing on the market, manufacturers should determine the support period, which should reflect the time the product with digital elements is expected to be in use. In determining a support period, a manufacturer should take into account in particular reasonable user expectations, the nature of the product, as well as relevant Union law determining the lifetime of products with digital elements. Manufacturers should also be able to take into account other relevant factors. Criteria should be applied in a manner that ensures proportionality in the determination of the support period. Upon request, a manufacturer should provide market surveillance authorities with the information that was taken into account to determine the support period of a product with digital elements.
 </details>
 
 <details>
-  <summary><strong>(60) ...</strong></summary>
-...
+  <summary><strong>(60) Manufacturers must handle vulnerabilities for at least five years or for the product’s shorter expected lifetime</strong>, and for longer-lived products (like routers, industrial systems or OSes) they must extend support accordingly, with shorter periods allowed only when a genuinely shorter use time is justified.</summary>
+The support period for which the manufacturer ensures the effective handling of vulnerabilities should be no less than five years, unless the lifetime of the product with digital elements is less than five years, in which case the manufacturer should ensure the vulnerability handling for that lifetime. Where the time the product with digital elements is reasonably expected to be in use is longer than five years, as is often the case for hardware components such as motherboards or microprocessors, network devices such as routers, modems or switches, as well as software, such as operating systems or video-editing tools, manufacturers should accordingly ensure longer support periods. In particular, products with digital elements intended for use in industrial settings, such as industrial control systems, are often in use for significantly longer periods of time. A manufacturer should be able to define a support period of less than five years only where this is justified by the nature of the product with digital elements concerned and where that product is expected to be in use for less than five years, in which case the support period should correspond to the expected use time. For instance, the lifetime of a contact tracing application intended for use during a pandemic could be limited to the duration of the pandemic. Moreover, some software applications can by nature only be made available on the basis of a subscription model, in particular where the application becomes unavailable to the user and is consequently not in use anymore once the subscription expires.
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
-...
+  <summary><strong>(61) When support ends, manufacturers should consider releasing their source code—either publicly or to other companies that will keep fixing vulnerabilities—while still being allowed to protect ownership by contract if they share it only with those companies.</strong></summary>
+When products with digital elements reach the end of their support periods, in order to ensure that vulnerabilities can be handled after the end of the support period, manufacturers should consider releasing the source code of such products with digital elements either to other undertakings which commit to extending the provision of vulnerability handling services or to the public. Where manufacturers release the source code to other undertakings, they should be able to protect the ownership of the product with digital elements and prevent the dissemination of the source code to the public, for example through contractual arrangements.
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
-...
+  <summary><strong>(62) ADCO will publish stats and guidance on typical support periods</strong>, and the Commission can set minimum support periods for certain product categories if manufacturers’ choices are unjustified or inconsistent with the Regulation’s criteria.</summary>
+In order to ensure that manufacturers across the Union determine similar support periods for comparable products with digital elements, ADCO should publish statistics on the average support periods determined by manufacturers for categories of products with digital elements and issue guidance indicating appropriate support periods for such categories. In addition, with a view to ensuring a harmonised approach across the internal market, the Commission should be able to adopt delegated acts to specify minimum support periods for specific product categories where the data provided by market surveillance authorities suggests that the support periods determined by manufacturers are either systematically not in line with the criteria for determining the support periods as laid down in this Regulation or that manufacturers in different Member States unjustifiably determine different support periods.
 </details>
 
 <details>
