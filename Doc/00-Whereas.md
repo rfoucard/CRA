@@ -1,4 +1,4 @@
-# Cyber Resilience Act – Recitals (“Whereas”) Overview & Structure
+# Cyber Resilience Act – Recitals (“Whereas”)
 
 The “whereas” recitals explain why the law exists and what problems and goals it addresses. They provide context and show how this Regulation fits with other EU laws. They don’t create direct obligations, but they guide how the binding articles should be interpreted in practice. They also document the legislator’s intentions and policy choices, which is crucial for authorities, courts and stakeholders when applying or revising the rules.
 
