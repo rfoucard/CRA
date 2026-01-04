@@ -138,7 +138,6 @@
 <details>
   <summary><strong>Article 4 - Free movement</strong> Member States must allow compliant products on the market, while permitting non-compliant prototypes and limited-time test software under clear “not compliant” signage, except for certain safety components.</summary>
   <br/>
-  <p><strong>Short one-sentence summary (EN):</strong><br>
 Member States must allow compliant products on the market, while permitting non-compliant prototypes and limited-time test software under clear “not compliant” signage, except for certain safety components.</p>
 
 <ol>
@@ -158,6 +157,138 @@ Member States must allow compliant products on the market, while permitting non-
 </details>
 
 
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
 <br/>
 <details>
   <summary><strong>  </strong>  </summary>
