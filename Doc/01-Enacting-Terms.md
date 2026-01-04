@@ -584,8 +584,62 @@ Member States must allow compliant products on the market, while permitting non-
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 16 - Establishment of a single reporting platform</strong> ENISA must run a single reporting platform for CRA notifications, CSIRTs must quickly share notifications to other affected Member States (with tightly limited delay options), inform market surveillance authorities, and ENISA must secure the platform and coordinate technical specs with the CSIRTs network.</summary>
   <br/>
+  <ol>
+  <li>
+    For the purposes of the notifications referred to in Article 14(1) and (3) and Article 15(1) and (2) and in order to simplify the reporting obligations of manufacturers, a single reporting platform shall be established by ENISA.
+    The day-to-day operations of that single reporting platform shall be managed and maintained by ENISA.
+    The architecture of the single reporting platform shall allow Member States and ENISA to put in place their own electronic notification end-points.
+  </li>
+
+  <li>
+    After receiving a notification, the CSIRT designated as coordinator initially receiving the notification shall, without delay, disseminate the notification via the single reporting platform to the CSIRTs designated as coordinators on the territory of which the manufacturer has indicated that the product with digital elements has been made available.
+    <p>
+      In exceptional circumstances and, in particular, upon request by the manufacturer and in light of the level of sensitivity of the notified information as indicated by the manufacturer under Article 14(2), point (a), of this Regulation, the dissemination of the notification may be delayed based on justified cybersecurity-related grounds for a period of time that is strictly necessary, including where a vulnerability is subject to a coordinated vulnerability disclosure procedure as referred to in Article 12(1) of Directive (EU) 2022/2555.
+      Where a CSIRT decides to withhold a notification, it shall immediately inform ENISA about the decision and provide both a justification for withholding the notification as well as an indication of when it will disseminate the notification in accordance with the dissemination procedure laid down in this paragraph.
+      ENISA may support the CSIRT on the application of cybersecurity-related grounds in relation to delaying the dissemination of the notification.
+    </p>
+
+    <p>
+      In particularly exceptional circumstances, where the manufacturer indicates in the notification referred to in Article 14(2), point (b):
+    </p>
+    <ol type="a">
+      <li>
+        that the notified vulnerability has been actively exploited by a malicious actor and, according to the information available, it has been exploited in no other Member State than the one of the CSIRT designated as coordinator to which the manufacturer has notified the vulnerability;
+      </li>
+      <li>
+        that any immediate further dissemination of the notified vulnerability would likely result in the supply of information the disclosure of which would be contrary to the essential interests of that Member State; or
+      </li>
+      <li>
+        that the notified vulnerability poses an imminent high cybersecurity risk stemming from the further dissemination;
+      </li>
+    </ol>
+
+    <p>
+      only the information that a notification was made by the manufacturer, the general information about the product, the information on the general nature of the exploit and the information that security related grounds were raised are to be made available simultaneously to ENISA until the full notification is disseminated to the CSIRTs concerned and ENISA.
+      Where, based on that information, ENISA considers that there is a systemic risk affecting security in the internal market, it shall recommend to the recipient CSIRT that it disseminate the full notification to the other CSIRTs designated as coordinators and to ENISA itself.
+    </p>
+  </li>
+
+  <li>
+    After receiving a notification of an actively exploited vulnerability in a product with digital elements or of a severe incident having an impact on the security of a product with digital elements, the CSIRTs designated as coordinators shall provide the market surveillance authorities of their respective Member States with the notified information necessary for the market surveillance authorities to fulfil their obligations under this Regulation.
+  </li>
+
+  <li>
+    ENISA shall take appropriate and proportionate technical, operational and organisational measures to manage the risks posed to the security of the single reporting platform and the information submitted or disseminated via the single reporting platform.
+    It shall notify without undue delay any security incident affecting the single reporting platform to the CSIRTs network as well as to the Commission.
+  </li>
+
+  <li>
+    ENISA, in cooperation with the CSIRTs network, shall provide and implement specifications on the technical, operational and organisational measures regarding the establishment, maintenance and secure operation of the single reporting platform referred to in paragraph 1, including at least the security arrangements related to the establishment, operation and maintenance of the single reporting platform, as well as the electronic notification end-points set up by the CSIRTs designated as coordinators at national level and ENISA at Union level, including procedural aspects to ensure that, where a notified vulnerability has no corrective or mitigating measures available, information about that vulnerability is shared in line with strict security protocols and on a need-to-know basis.
+  </li>
+
+  <li>
+    Where a CSIRT designated as coordinator has been made aware of an actively exploited vulnerability as part of a coordinated vulnerability disclosure procedure as referred to in Article 12(1) of Directive (EU) 2022/2555, the CSIRT designated as coordinator initially receiving the notification may delay the dissemination of the relevant notification via the single reporting platform based on justified cybersecurity-related grounds for a period that is no longer than is strictly necessary and until consent for disclosure by the involved coordinated vulnerability disclosure parties is given.
+    That requirement shall not prevent manufacturers from notifying such a vulnerability on a voluntary basis in accordance with the procedure laid down in this Article.
+  </li>
+  </ol>
 </details>
 
 
