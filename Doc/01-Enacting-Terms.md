@@ -640,15 +640,68 @@ Member States must allow compliant products on the market, while permitting non-
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 17 - Other provisions related to reporting</strong> ENISA may share CRA notifications with EU-CyCLONe for major crises, CSIRTs may trigger public disclosure when needed, ENISA must publish biennial trend reports and add reported vulnerabilities to the EU database once fixes exist, notifications must not increase liability, and CSIRTs must provide reporting helpdesk support (especially for SMEs).</summary>
   <br/>
+  <ol>
+  <li>
+    ENISA may submit to the European cyber crisis liaison organisation network (EU-CyCLONe) established under Article 16 of Directive (EU) 2022/2555 information notified pursuant to Article 14(1) and (3) and Article 15(1) and (2) of this Regulation if such information is relevant for the coordinated management of large-scale cybersecurity incidents and crises at an operational level. For the purpose of determining such relevance, ENISA may consider technical analyses performed by the CSIRTs network, where available.
+  </li>
+
+  <li>
+    Where public awareness is necessary to prevent or mitigate a severe incident having an impact on the security of the product with digital elements or to handle an ongoing incident, or where disclosure of the incident is otherwise in the public interest, the CSIRT designated as coordinator of the relevant Member State may, after consulting the manufacturer concerned and, where appropriate, in cooperation with ENISA, inform the public about the incident or require the manufacturer to do so.
+  </li>
+
+  <li>
+    ENISA, on the basis of the notifications received pursuant to Article 14(1) and (3) and Article 15(1) and (2) of this Regulation, shall prepare, every 24 months, a technical report on emerging trends regarding cybersecurity risks in products with digital elements and submit it to the Cooperation Group established pursuant to Article 14 of Directive (EU) 2022/2555.
+    The first such report shall be submitted within 24 months of the date of application of the obligations laid down in Article 14(1) and (3) of this Regulation.
+    ENISA shall include relevant information from its technical reports in its report on the state of cybersecurity in the Union pursuant to Article 18 of Directive (EU) 2022/2555.
+  </li>
+
+  <li>
+    The mere act of notification in accordance with Article 14(1) and (3) or Article 15(1) and (2) shall not subject the notifying natural or legal person to increased liability.
+  </li>
+
+  <li>
+    After a security update or another form of corrective or mitigating measure is available, ENISA shall, in agreement with the manufacturer of the product with digital elements concerned, add the publicly known vulnerability notified pursuant to Article 14(1) or Article 15(1) of this Regulation to the European vulnerability database established pursuant to Article 12(2) of Directive (EU) 2022/2555.
+  </li>
+
+  <li>
+    The CSIRTs designated as coordinators shall provide helpdesk support in relation to the reporting obligations pursuant to Article 14 to manufacturers and in particular manufacturers that qualify as microenterprises or as small or medium-sized enterprises.
+  </li>
+  </ol>
 </details>
 
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 18 - Authorised representatives</strong> A manufacturer may appoint an authorised representative, but the mandate cannot include key Article 13 duties, and must at least cover keeping the DoC/technical file, providing compliance info, and cooperating with market surveillance authorities.</summary>
   <br/>
+  <ol>
+  <li>
+    A manufacturer may, by a written mandate, appoint an authorised representative.
+  </li>
+
+  <li>
+    The obligations laid down in Article 13(1) to (11), Article 13(12), first subparagraph, and Article 13(14) shall not form part of the authorised representative’s mandate.
+  </li>
+
+  <li>
+    An authorised representative shall perform the tasks specified in the mandate received from the manufacturer.
+    The authorised representative shall provide a copy of the mandate to the market surveillance authorities upon request.
+    The mandate shall allow the authorised representative to do at least the following:
+    <ol type="a">
+      <li>
+        keep the EU declaration of conformity referred to in Article 28 and the technical documentation referred to in Article 31 at the disposal of the market surveillance authorities for at least 10 years after the product with digital elements has been placed on the market or for the support period, whichever is longer;
+      </li>
+      <li>
+        further to a reasoned request from a market surveillance authority, provide that authority with all the information and documentation necessary to demonstrate the conformity of the product with digital elements;
+      </li>
+      <li>
+        cooperate with the market surveillance authorities, at their request, on any action taken to eliminate the risks posed by a product with digital elements covered by the authorised representative’s mandate.
+      </li>
+    </ol>
+  </li>
+</ol>
 </details>
 
 
