@@ -806,30 +806,75 @@ Member States must allow compliant products on the market, while permitting non-
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 21 - Cases in which obligations of manufacturers apply to importers and distributors</strong> An importer or distributor becomes a manufacturer if it sells a product under its own name/trademark or substantially modifies it. </summary>
   <br/>
+      An importer or distributor shall be considered to be a manufacturer for the purposes of this Regulation and shall be subject to Articles 13 and 14, where that importer or distributor places a product with digital elements on the market under its name or trademark or carries out a substantial modification of a product with digital elements already placed on the market.
 </details>
 
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 22 - Other cases in which obligations of manufacturers apply</strong> Anyone who substantially modifies a product and sells it becomes a “manufacturer” and must meet Articles 13 and 14 for the modified part—or the whole product if overall cybersecurity is affected.</summary>
   <br/>
+  <ol>
+  <li>
+    A natural or legal person, other than the manufacturer, the importer or the distributor, that carries out a substantial modification of a product with digital elements and makes that product available on the market, shall be considered to be a manufacturer for the purposes of this Regulation.
+  </li>
+  <li>
+    The person referred to in paragraph 1 of this Article shall be subject to the obligations set out in Articles 13 and 14 for the part of the product with digital elements that is affected by the substantial modification or, if the substantial modification has an impact on the cybersecurity of the product with digital elements as a whole, for the entire product.
+  </li>
+  </ol>
 </details>
 
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 23 - Identification of economic operators</strong> Economic operators must, on request, identify their suppliers and (where possible) their customers for digital products, and keep this traceability data for 10 years after receiving and 10 years after supplying the product. </summary>
   <br/>
+  <ol>
+  <li>
+    Economic operators shall, on request, provide the market surveillance authorities with the following information:
+    <ol type="a">
+      <li>the name and address of any economic operator who has supplied them with a product with digital elements;</li>
+      <li>where available, the name and address of any economic operator to whom they have supplied a product with digital elements.</li>
+    </ol>
+  </li>
+
+  <li>
+    Economic operators shall be able to present the information referred to in paragraph 1 for 10 years after they have been supplied with the product with digital elements and for 10 years after they have supplied the product with digital elements.
+  </li>
+</ol>
 </details>
 
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 24 - Obligations of open-source software stewards</strong> Open-source software stewards must maintain a verifiable cybersecurity and vulnerability-handling policy, cooperate and share that documentation with market surveillance authorities on request, and may have limited Article 14 reporting duties depending on their role and whether incidents affect their development infrastructure. </summary>
   <br/>
+  <ol>
+  <li>
+    Open-source software stewards shall put in place and document in a verifiable manner a cybersecurity policy to foster the development of a secure product with digital elements as well as an effective handling of vulnerabilities by the developers of that product.
+    That policy shall also foster the voluntary reporting of vulnerabilities as laid down in Article 15 by the developers of that product and take into account the specific nature of the open-source software steward and the legal and organisational arrangements to which it is subject.
+    That policy shall, in particular, include aspects related to documenting, addressing and remediating vulnerabilities and promote the sharing of information concerning discovered vulnerabilities within the open-source community.
+  </li>
+
+  <li>
+    Open-source software stewards shall cooperate with the market surveillance authorities, at their request, with a view to mitigating the cybersecurity risks posed by a product with digital elements qualifying as free and open-source software.
+    <p>
+      Further to a reasoned request from a market surveillance authority, open-source software stewards shall provide that authority, in a language which can be easily understood by that authority, with the documentation referred to in paragraph 1, in paper or electronic form.
+    </p>
+  </li>
+
+  <li>
+    The obligations laid down in Article 14(1) shall apply to open-source software stewards to the extent that they are involved in the development of the products with digital elements.
+    The obligations laid down in Article 14(3) and (8) shall apply to open-source software stewards to the extent that severe incidents having an impact on the security of products with digital elements affect network and information systems provided by the open-source software stewards for the development of such products.
+  </li>
+</ol>
 </details>
+
+
+
+
 <br/>
 <details>
   <summary><strong>  </strong>  </summary>
