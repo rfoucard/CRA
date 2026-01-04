@@ -394,26 +394,26 @@ Member States must allow compliant products on the market, while permitting non-
     <p>Where compliance of the product with digital elements with the essential cybersecurity requirements set out in Part I of Annex I and of the processes put in place by the manufacturer with the essential cybersecurity requirements set out in Part II of Annex I has been demonstrated by that conformity assessment procedure, manufacturers shall draw up the EU declaration of conformity in accordance with Article 28 and affix the CE marking in accordance with Article 30.</p>
   </li>
 
-  <li>Manufacturers shall keep the technical documentation and the EU declaration of conformity at the disposal of the market surveillance authorities for at least 10 years after the product with digital elements has been placed on the market or for the support period, whichever is longer.</li>
+  <li>Manufacturers shall <strong>keep the technical documentation and the EU declaration of conformity at the disposal of the market surveillance authorities</strong> for at least 10 years after the product with digital elements has been placed on the market or for the support period, whichever is longer.</li>
 
-  <li>Manufacturers shall ensure that procedures are in place for products with digital elements that are part of a series of production to remain in conformity with this Regulation. Manufacturers shall adequately take into account changes in the development and production process or in the design or characteristics of the product with digital elements and changes in the harmonised standards, European cybersecurity certification schemes or common specifications as referred to in Article 27 by reference to which the conformity of the product with digital elements is declared or by application of which its conformity is verified.</li>
+  <li>Manufacturers shall <strong>ensure that procedures are in place for products with digital elements that are part of a series of production</strong> to remain in conformity with this Regulation. Manufacturers shall adequately take into account changes in the development and production process or in the design or characteristics of the product with digital elements and changes in the harmonised standards, European cybersecurity certification schemes or common specifications as referred to in Article 27 by reference to which the conformity of the product with digital elements is declared or by application of which its conformity is verified.</li>
 
-  <li>Manufacturers shall ensure that their products with digital elements bear a type, batch or serial number or other element allowing their identification, or, where that is not possible, that that information is provided on their packaging or in a document accompanying the product with digital elements.</li>
+  <li>Manufacturers shall <strong>ensure that their products with digital elements bear a type, batch or serial number or other element allowing their identification</strong>, or, where that is not possible, that that information is provided on their packaging or in a document accompanying the product with digital elements.</li>
 
   <li>
-    Manufacturers shall indicate the name, registered trade name or registered trademark of the manufacturer, and the postal address, email address or other digital contact details, as well as, where applicable, the website where the manufacturer can be contacted, on the product with digital elements, on its packaging or in a document accompanying the product with digital elements.
+    Manufacturers shall <strong>indicate the name, registered trade name or registered trademark of the manufacturer, and the postal address, email address or other digital contact details</strong>, as well as, where applicable, the website where the manufacturer can be contacted, on the product with digital elements, on its packaging or in a document accompanying the product with digital elements.
     That information shall also be included in the information and instructions to the user set out in Annex II.
     The contact details shall be in a language which can be easily understood by users and market surveillance authorities.
   </li>
 
   <li>
-    For the purposes of this Regulation, manufacturers shall designate a single point of contact to enable users to communicate directly and rapidly with them, including in order to facilitate reporting on vulnerabilities of the product with digital elements.
+    For the purposes of this Regulation, manufacturers shall <strong>designate a single point of contact</strong> to enable users to communicate directly and rapidly with them, including in order to facilitate reporting on vulnerabilities of the product with digital elements.
     <p>Manufacturers shall ensure that the single point of contact is easily identifiable by the users. They shall also include the single point of contact in the information and instructions to the user set out in Annex II.</p>
-    <p>The single point of contact shall allow users to choose their preferred means of communication and shall not limit such means to automated tools.</p>
+    <p><strong>The single point of contact shall allow users to choose their preferred means of communication</strong> and shall not limit such means to automated tools.</p>
   </li>
 
   <li>
-    Manufacturers shall ensure that products with digital elements are accompanied by the information and instructions to the user set out in Annex II, in paper or electronic form.
+    Manufacturers shall <strong>ensure that products with digital elements are accompanied by the information and instructions to the user</strong> set out in Annex II, in paper or electronic form.
     Such information and instructions shall be provided in a language which can be easily understood by users and market surveillance authorities.
     They shall be clear, understandable, intelligible and legible.
     They shall allow for the secure installation, operation and use of products with digital elements.
@@ -422,28 +422,28 @@ Member States must allow compliant products on the market, while permitting non-
   </li>
 
   <li>
-    Manufacturers shall ensure that the end date of the support period referred to in paragraph 8, including at least the month and the year, is clearly and understandably specified at the time of purchase in an easily accessible manner and, where applicable, on the product with digital elements, its packaging or by digital means.
+    Manufacturers shall <strong>ensure that the end date of the support period</strong> referred to in paragraph 8, including at least the month and the year, <strong>is clearly and understandably specified</strong> at the time of purchase in an easily accessible manner and, where applicable, on the product with digital elements, its packaging or by digital means.
     <p>Where technically feasible in light of the nature of the product with digital elements, manufacturers shall display a notification to users informing them that their product with digital elements has reached the end of its support period.</p>
   </li>
 
   <li>
-    Manufacturers shall either provide a copy of the EU declaration of conformity or a simplified EU declaration of conformity with the product with digital elements.
+    Manufacturers shall either <strong>provide a copy of the EU declaration of conformity or a simplified EU declaration of conformity</strong> with the product with digital elements.
     Where a simplified EU declaration of conformity is provided, it shall contain the exact internet address at which the full EU declaration of conformity can be accessed.
   </li>
 
-  <li>From the placing on the market and for the support period, manufacturers who know or have reason to believe that the product with digital elements or the processes put in place by the manufacturer are not in conformity with the essential cybersecurity requirements set out in Annex I shall immediately take the corrective measures necessary to bring that product with digital elements or the manufacturer’s processes into conformity, or to withdraw or recall the product, as appropriate.</li>
+  <li>From the placing on the market and for the support period, manufacturers who know or have reason to believe that the product with digital elements or the processes put in place by the manufacturer are not in conformity with the essential cybersecurity requirements set out in Annex I shall <strong>immediately take the corrective measures</strong> necessary to bring that product with digital elements or the manufacturer’s processes into conformity, or to withdraw or recall the product, as appropriate.</li>
 
   <li>
-    Manufacturers shall, upon a reasoned request from a market surveillance authority, provide that authority, in a language which can be easily understood by that authority, with all the information and documentation, in paper or electronic form, necessary to demonstrate the conformity of the product with digital elements and of the processes put in place by the manufacturer with the essential cybersecurity requirements set out in Annex I.
+    Manufacturers shall, <strong>upon a reasoned request from a market surveillance authority, provide</strong> that authority, in a language which can be easily understood by that authority, <strong>with all the information and documentation</strong>, in paper or electronic form, necessary to demonstrate the conformity of the product with digital elements and of the processes put in place by the manufacturer with the essential cybersecurity requirements set out in Annex I.
     Manufacturers shall cooperate with that authority, at its request, on any measures taken to eliminate the cybersecurity risks posed by the product with digital elements which they have placed on the market.
   </li>
 
-  <li>A manufacturer that ceases its operations and, as a result, is not able to comply with this Regulation shall inform, before the cessation of operations takes effect, the relevant market surveillance authorities as well as, by any means available and to the extent possible, the users of the relevant products with digital elements placed on the market, of the impending cessation of operations.</li>
+  <li>A manufacturer that ceases its operations and, as a result, is not able to comply with this Regulation shall <strong>inform, before the cessation of operations takes effect</strong>, the relevant market surveillance authorities as well as, by any means available and to the extent possible, the users of the relevant products with digital elements placed on the market, <strong>of the impending cessation of operations.</strong></li>
 
-  <li>The Commission may, by means of implementing acts taking into account European or international standards and best practices, specify the format and elements of the software bill of materials referred to in Part II, point (1), of Annex I. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 62(2).</li>
+  <li><strong>The Commission may</strong>, by means of implementing acts taking into account European or international standards and best practices, <strong>specify the format and elements of the software bill of materials</strong> referred to in Part II, point (1), of Annex I. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 62(2).</li>
 
   <li>
-    In order to assess the dependence of Member States and of the Union as a whole on software components and in particular on components qualifying as free and open-source software, ADCO may decide to conduct a Union wide dependency assessment for specific categories of products with digital elements.
+    In order to assess the dependence of Member States and of the Union as a whole on software components and in particular on components qualifying as free and open-source software, <strong>ADCO may decide to conduct a Union wide dependency assessment for specific categories of products with digital elements</strong>.
     For that purpose, market surveillance authorities may request manufacturers of such categories of products with digital elements to provide the relevant software bills of materials as referred to in Part II, point (1), of Annex I.
     On the basis of such information, the market surveillance authorities may provide ADCO with anonymised and aggregated information about software dependencies.
     ADCO shall submit a report on the results of the dependency assessment to the Cooperation Group established pursuant to Article 14 of Directive (EU) 2022/2555.
