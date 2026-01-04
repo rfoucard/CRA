@@ -347,19 +347,19 @@ Member States must allow compliant products on the market, while permitting non-
   <summary><strong>Article 13 - Obligations of manufacturers</strong> Manufacturers must design secure products, document and update cybersecurity risk assessments, manage vulnerabilities and supply-chain components (incl. OSS), provide conformity/CE documentation and user information (incl. a human-usable contact point), ensure support for at least 5 years with security updates available for at least 10 years, and take corrective actions and cooperate with authorities when non-compliance is found.</summary>
   <br/>
   <ol>
-  <li>When placing a product with digital elements on the market, manufacturers shall ensure that it has been designed, developed and produced **in accordance with the essential cybersecurity requirements** set out in Part I of Annex I.</li>
+  <li>When placing a product with digital elements on the market, manufacturers shall ensure that it has been designed, developed and produced <strong>in accordance with the essential cybersecurity requirements</strong> set out in Part I of Annex I.</li>
 
-  <li>For the purpose of complying with paragraph 1, manufacturers shall undertake an assessment of the cybersecurity risks associated with a product with digital elements and take the outcome of that assessment into account during the planning, design, development, production, delivery and maintenance phases of the product with digital elements with a view to minimising cybersecurity risks, preventing incidents and minimising their impact, including in relation to the health and safety of users.</li>
+  <li>For the purpose of complying with paragraph 1, manufacturers shall <strong>undertake an assessment of the cybersecurity risks</strong> associated with a product with digital elements and take the outcome of that assessment into account during the planning, design, development, production, delivery and maintenance phases of the product with digital elements with a view to minimising cybersecurity risks, preventing incidents and minimising their impact, including in relation to the health and safety of users.</li>
 
   <li>
-    The cybersecurity risk assessment shall be documented and updated as appropriate during a support period to be determined in accordance with paragraph 8 of this Article.
+    <strong>The cybersecurity risk assessment shall be documented and updated</strong> as appropriate during a support period to be determined in accordance with paragraph 8 of this Article.
     That cybersecurity risk assessment shall comprise at least an analysis of cybersecurity risks based on the intended purpose and reasonably foreseeable use, as well as the conditions of use, of the product with digital elements, such as the operational environment or the assets to be protected, taking into account the length of time the product is expected to be in use.
     The cybersecurity risk assessment shall indicate whether and, if so in what manner, the security requirements set out in Part I, point (2), of Annex I are applicable to the relevant product with digital elements and how those requirements are implemented as informed by the cybersecurity risk assessment.
     It shall also indicate how the manufacturer is to apply Part I, point (1), of Annex I and the vulnerability handling requirements set out in Part II of Annex I.
   </li>
 
   <li>
-    When placing a product with digital elements on the market, the manufacturer shall include the cybersecurity risk assessment referred to in paragraph 3 of this Article in the technical documentation required pursuant to Article 31 and Annex VII.
+    When placing a product with digital elements on the market, the manufacturer shall <strong>include the cybersecurity risk assessment</strong> referred to in paragraph 3 of this Article <strong>in the technical documentation</strong> required pursuant to Article 31 and Annex VII.
     For products with digital elements as referred to in Article 12, which are also subject to other Union legal acts, the cybersecurity risk assessment may be part of the risk assessment required by those Union legal acts.
     Where certain essential cybersecurity requirements are not applicable to the product with digital elements, the manufacturer shall include a clear justification to that effect in that technical documentation.
   </li>
