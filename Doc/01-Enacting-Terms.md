@@ -74,7 +74,7 @@
 
 <br/>
 <details>
-  <summary><strong>Article 3 - Definitions</strong>  </summary>
+  <summary><strong>Article 3 - Definitions</strong> the following definitions apply.</summary>
   <br/>
   For the purposes of this Regulation, the following definitions apply:
   <ol>
