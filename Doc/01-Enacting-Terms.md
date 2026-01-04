@@ -612,7 +612,7 @@ Member States must allow compliant products on the market, while permitting non-
         that the notified vulnerability poses an imminent high cybersecurity risk stemming from the further dissemination;
       </li>
     </ol>
-
+<br/>
       only the information that a notification was made by the manufacturer, the general information about the product, the information on the general nature of the exploit and the information that security related grounds were raised are to be made available simultaneously to ENISA until the full notification is disseminated to the CSIRTs concerned and ENISA.
       Where, based on that information, ENISA considers that there is a systemic risk affecting security in the internal market, it shall recommend to the recipient CSIRT that it disseminate the full notification to the other CSIRTs designated as coordinators and to ENISA itself.
   </li>
