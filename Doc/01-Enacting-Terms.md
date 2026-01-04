@@ -1064,16 +1064,84 @@ Member States must allow compliant products on the market, while permitting non-
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 31 - Technical documentation</strong> Manufacturers must prepare and keep updated technical documentation showing CRA compliance, use a single file when other EU acts also apply, draft it in an accepted language for conformity assessment, and the Commission may expand its required contents while aiming to keep SME burden proportionate. </summary>
   <br/>
+  <ol>
+  <li>
+    The technical documentation shall contain all relevant data or details of the means used by the manufacturer to ensure that the product with digital elements and the processes put in place by the manufacturer comply with the essential cybersecurity requirements set out in Annex I.
+    It shall at least contain the elements set out in Annex VII.
+  </li>
+
+  <li>
+    The technical documentation shall be drawn up before the product with digital elements is placed on the market and shall be continuously updated, where appropriate, at least during the support period.
+  </li>
+
+  <li>
+    For products with digital elements as referred to in Article 12, which are also subject to other Union legal acts which provide for technical documentation, a single set of technical documentation shall be drawn up containing the information referred to in Annex VII and the information required by those Union legal acts.
+  </li>
+
+  <li>
+    The technical documentation and correspondence relating to any conformity assessment procedure shall be drawn up in an official language of the Member State in which the notified body is established or in a language acceptable to that body.
+  </li>
+
+  <li>
+    The Commission is empowered to adopt delegated acts in accordance with Article 61 to supplement this Regulation by adding elements to be included in the technical documentation set out in Annex VII to take account of technological developments, as well as developments encountered in the implementation process of this Regulation.
+    To that end, the Commission shall strive to ensure that the administrative burden on microenterprises and small and medium-sized enterprises is proportionate.
+  </li>
+  </ol>
 </details>
 
 
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 32 - Conformity assessment procedures for products with digital elements</strong> Manufacturers must assess CRA conformity using Module A, B+C, or H (or EU cybersecurity certification), with stricter routes for Annex III class I/II important products and Annex IV critical products, a public-doc option for open-source in Annex III, and reduced fees for SMEs. </summary>
   <br/>
+  <ol>
+  <li>
+    The manufacturer shall perform a conformity assessment of the product with digital elements and the processes put in place by the manufacturer to determine whether the essential cybersecurity requirements set out in Annex I are met.
+    The manufacturer shall demonstrate conformity with the essential cybersecurity requirements by using any of the following procedures:
+    <ol type="a">
+      <li>the internal control procedure (based on module A) set out in Annex VIII;</li>
+      <li>the EU-type examination procedure (based on module B) set out in Annex VIII followed by conformity to EU-type based on internal production control (based on module C) set out in Annex VIII;</li>
+      <li>a conformity assessment based on full quality assurance (based on module H) set out in Annex VIII; or</li>
+      <li>where available and applicable, a European cybersecurity certification scheme pursuant to Article 27(9).</li>
+    </ol>
+  </li>
+
+  <li>
+    Where, in assessing the compliance of an important product with digital elements that falls under class I as set out in Annex III and the processes put in place by its manufacturer with the essential cybersecurity requirements set out in Annex I, the manufacturer has not applied or has applied only in part harmonised standards, common specifications or European cybersecurity certification schemes at assurance level at least ‘substantial’ as referred to in Article 27, or where such harmonised standards, common specifications or European cybersecurity certification schemes do not exist, the product with digital elements concerned and the processes put in place by the manufacturer shall be submitted with regard to those essential cybersecurity requirements to either of the following procedures:
+    <ol type="a">
+      <li>the EU-type examination procedure (based on module B) set out in Annex VIII followed by conformity to EU-type based on internal production control (based on module C) set out in Annex VIII; or</li>
+      <li>a conformity assessment based on full quality assurance (based on module H) set out in Annex VIII.</li>
+    </ol>
+  </li>
+
+  <li>
+    Where the product is an important product with digital elements that falls under class II as set out in Annex III, the manufacturer shall demonstrate conformity with the essential cybersecurity requirements set out in Annex I by using any of the following procedures:
+    <ol type="a">
+      <li>EU-type examination procedure (based on module B) set out in Annex VIII followed by conformity to EU-type based on internal production control (based on module C) set out in Annex VIII;</li>
+      <li>a conformity assessment based on full quality assurance (based on module H) set out in Annex VIII; or</li>
+      <li>where available and applicable, a European cybersecurity certification scheme pursuant to Article 27(9) of this Regulation at assurance level at least ‘substantial’ pursuant to Regulation (EU) 2019/881.</li>
+    </ol>
+  </li>
+
+  <li>
+    Critical products with digital elements listed in Annex IV shall demonstrate conformity with the essential cybersecurity requirements set out in Annex I by using one of the following procedures:
+    <ol type="a">
+      <li>a European cybersecurity certification scheme in accordance with Article 8(1); or</li>
+      <li>where the conditions in Article 8(1) are not met, any of the procedures referred to in paragraph 3 of this Article.</li>
+    </ol>
+  </li>
+
+  <li>
+    Manufacturers of products with digital elements qualifying as free and open-source software, which fall under the categories set out in Annex III, shall be able to demonstrate conformity with the essential cybersecurity requirements set out in Annex I by using one of the procedures referred to in paragraph 1 of this Article, provided that the technical documentation referred to in Article 31 is made available to the public at the time of the placing on the market of those products.
+  </li>
+
+  <li>
+    The specific interests and needs of microenterprises and small and medium-sized enterprises, including start-ups, shall be taken into account when setting the fees for conformity assessment procedures and those fees shall be reduced proportionately to their specific interests and needs.
+  </li>
+</ol>
 </details>
 
 
