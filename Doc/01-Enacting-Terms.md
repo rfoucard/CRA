@@ -9,7 +9,6 @@
 
 <details>
   <summary><strong>Article 1 - Subject matter</strong> This Regulation sets cybersecurity rules and duties for placing digital products on the EU market, handling their vulnerabilities, and supervising compliance.</summary>
-
   <br/>
   This Regulation lays down:
 
@@ -19,8 +18,8 @@
   <li>essential cybersecurity requirements for the vulnerability handling processes put in place by manufacturers to ensure the cybersecurity of products with digital elements during the time the products are expected to be in use, and obligations for economic operators in relation to those processes;</li>
   <li>rules on market surveillance, including monitoring, and enforcement of the rules and requirements referred to in this Article.</li>
   </ol>
-</details>
-
+  </details>
+<br/>
 <details>
   <summary><strong>Article 2 - Scope</strong> This Regulation applies to connected digital products placed on the market, with key exclusions (certain sector-regulated/certified products, spare parts, and security/defence) and a power for the Commission to refine scope via delegated acts.</summary>
   <br/>
@@ -73,99 +72,36 @@
 
 
 
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
 
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+
+
+
+<br/>
 <details>
   <summary><strong>  </strong>  </summary>
   <br/>
   
-</details>
-
-
-
-
-<details>
-  <summary><strong>  </strong>  </summary>
-  <br/>
-  
-</details>
-
-
-
-
-<details>
-  <summary><strong>  </strong>  </summary>
-  <br/>
-  
-</details>
-
-
-
-
-<details>
-  <summary><strong>  </strong>  </summary>
-  <br/>
-  
-</details>
-
-
-
-
-<details>
-  <summary><strong>  </strong>  </summary>
-  <br/>
-  
-</details>
-
-
-
-
-<details>
-  <summary><strong>  </strong>  </summary>
-  <br/>
-  
-</details>
-
-
-
-
-<details>
-  <summary><strong>  </strong>  </summary>
-  <br/>
-  
-</details>
-
-
-
-
-<details>
-  <summary><strong>  </strong>  </summary>
-  <br/>
-  
-</details>
-
-
-
-
-<details>
-  <summary><strong>  </strong>  </summary>
-  <br/>
-  
-</details>
-
-
-
-
-<details>
-  <summary><strong>  </strong>  </summary>
-  <br/>
-  
-</details>
-
-
-
-
-<details>
-  <summary><strong>  </strong>  </summary>
-  <br/>
-  
-</details>
