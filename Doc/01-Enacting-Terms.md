@@ -978,6 +978,124 @@ Member States must allow compliant products on the market, while permitting non-
 
 <br/>
 <details>
+  <summary><strong>Article 28 - EU declaration of conformity</strong> Manufacturers must issue and update an EU declaration of conformity (or simplified version) in the required languages, use one declaration for multiple EU laws when applicable, and by signing it, they take responsibility for compliance, while the Commission may expand its required content by delegated acts. </summary>
+  <br/>
+  <ol>
+  <li>
+    The EU declaration of conformity shall be drawn up by manufacturers in accordance with Article 13(12) and state that the fulfilment of the applicable essential cybersecurity requirements set out in Annex I has been demonstrated.
+  </li>
+
+  <li>
+    The EU declaration of conformity shall have the model structure set out in Annex V and shall contain the elements specified in the relevant conformity assessment procedures set out in Annex VIII.
+    Such a declaration shall be updated as appropriate.
+    It shall be made available in the languages required by the Member State in which the product with digital elements is placed on the market or made available on the market.
+    <p>
+      The simplified EU declaration of conformity referred to in Article 13(20) shall have the model structure set out in Annex VI.
+      It shall be made available in the languages required by the Member State in which the product with digital elements is placed on the market or made available on the market.
+    </p>
+  </li>
+
+  <li>
+    Where a product with digital elements is subject to more than one Union legal act requiring an EU declaration of conformity, a single EU declaration of conformity shall be drawn up in respect of all such Union legal acts.
+    That declaration shall contain the identification of the Union legal acts concerned, including their publication references.
+  </li>
+
+  <li>
+    By drawing up the EU declaration of conformity, the manufacturer shall assume responsibility for the compliance of the product with digital elements.
+  </li>
+
+  <li>
+    The Commission is empowered to adopt delegated acts in accordance with Article 61 to supplement this Regulation by adding elements to the minimum content of the EU declaration of conformity set out in Annex V to take account of technological developments.
+  </li>
+  </ol>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+
+<br/>
+<details>
   <summary><strong>  </strong>  </summary>
   <br/>
 </details>
