@@ -20,3 +20,116 @@ This Regulation lays down:
   <li>rules on market surveillance, including monitoring, and enforcement of the rules and requirements referred to in this Article.</li>
 </ol>
 </details>
+
+<details>
+  <summary><strong>Article 2 - Scope</strong> This Regulation applies to connected digital products placed on the market, with key exclusions (certain sector-regulated/certified products, spare parts, and security/defence) and a power for the Commission to refine scope via delegated acts.</summary>
+
+<p><strong>One very short sentence (EN):</strong><br>
+This Regulation applies to connected digital products placed on the market, with key exclusions (certain sector-regulated/certified products, spare parts, and security/defence) and a power for the Commission to refine scope via delegated acts.</p>
+
+<ol>
+  <li>
+    This Regulation applies to products with digital elements made available on the market, the intended purpose or reasonably foreseeable use of which includes a direct or indirect logical or physical data connection to a device or network.
+  </li>
+
+  <li>
+    This Regulation does not apply to products with digital elements to which the following Union legal acts apply:
+    <ol type="a">
+      <li>Regulation (EU) 2017/745;</li>
+      <li>Regulation (EU) 2017/746;</li>
+      <li>Regulation (EU) 2019/2144.</li>
+    </ol>
+  </li>
+
+  <li>
+    This Regulation does not apply to products with digital elements that have been certified in accordance with Regulation (EU) 2018/1139.
+  </li>
+
+  <li>
+    This Regulation does not apply to equipment that falls within the scope of Directive 2014/90/EU of the European Parliament and of the Council (36).
+  </li>
+
+  <li>
+    The application of this Regulation to products with digital elements covered by other Union rules laying down requirements that address all or some of the risks covered by the essential cybersecurity requirements set out in Annex I may be limited or excluded where:
+    <ol type="a">
+      <li>such limitation or exclusion is consistent with the overall regulatory framework that applies to those products; and</li>
+      <li>the sectoral rules achieve the same or a higher level of protection as that provided for by this Regulation.</li>
+    </ol>
+    <p>
+      The Commission is empowered to adopt delegated acts in accordance with Article 61 to supplement this Regulation by specifying whether such limitation or exclusion is necessary, the products and rules concerned, as well as the scope of the limitation, if relevant.
+    </p>
+  </li>
+
+  <li>
+    This Regulation does not apply to spare parts that are made available on the market to replace identical components in products with digital elements and that are manufactured according to the same specifications as the components that they are intended to replace.
+  </li>
+
+  <li>
+    This Regulation does not apply to products with digital elements developed or modified exclusively for national security or defence purposes or to products specifically designed to process classified information.
+  </li>
+
+  <li>
+    The obligations laid down in this Regulation shall not entail the supply of information the disclosure of which would be contrary to the essential interests of Member States’ national security, public security or defence.
+  </li>
+</ol>
+</details>
+
+<details>
+  <summary><strong>  </strong>  </summary>
+
+</details>
+
+<details>
+  <summary><strong>  </strong>  </summary>
+
+</details>
+
+<details>
+  <summary><strong>  </strong>  </summary>
+
+</details>
+
+<details>
+  <summary><strong>  </strong>  </summary>
+
+</details>
+
+<details>
+  <summary><strong>  </strong>  </summary>
+
+</details>
+
+<details>
+  <summary><strong>  </strong>  </summary>
+
+</details>
+
+<details>
+  <summary><strong>  </strong>  </summary>
+
+</details>
+
+<details>
+  <summary><strong>  </strong>  </summary>
+
+</details>
+
+<details>
+  <summary><strong>  </strong>  </summary>
+
+</details>
+
+<details>
+  <summary><strong>  </strong>  </summary>
+
+</details>
+
+<details>
+  <summary><strong>  </strong>  </summary>
+
+</details>
+
+<details>
+  <summary><strong>  </strong>  </summary>
+
+</details>
