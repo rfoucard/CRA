@@ -910,11 +910,69 @@ Member States must allow compliant products on the market, while permitting non-
 </ol>
 </details>
 
+## Chapter III - Conformity of the Product with Digital Elements
 
-<br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 27 - Presumption of conformity</strong> Compliance with published harmonised standards, Commission “common specifications”, or certain EU cybersecurity certification schemes creates a presumption of CRA Annex I conformity, and a “substantial” EU cybersecurity certificate can remove some third-party conformity assessment duties.</summary>
   <br/>
+  <ol>
+  <li>
+    Products with digital elements and processes put in place by the manufacturer which are in conformity with harmonised standards or parts thereof, the references of which have been published in the Official Journal of the European Union, shall be presumed to be in conformity with the essential cybersecurity requirements set out in Annex I covered by those standards or parts thereof.
+    <p>
+      The Commission shall, in accordance with Article 10(1) of Regulation (EU) No 1025/2012, request one or more European standardisation organisations to draft harmonised standards for the essential cybersecurity requirements set out in Annex I to this Regulation.
+      When preparing standardisation requests for this Regulation, the Commission shall strive to take into account existing European and international standards for cybersecurity that are in place or under development in order to simplify the development of harmonised standards, in accordance with Regulation (EU) No 1025/2012.
+    </p>
+  </li>
+
+  <li>
+    The Commission may adopt implementing acts establishing common specifications covering technical requirements that provide a means to comply with the essential cybersecurity requirements set out in Annex I for products with digital elements that fall within the scope of this Regulation.
+    <p>Those implementing acts shall be adopted only where the following conditions are fulfilled:</p>
+    <ol type="a">
+      <li>
+        the Commission has requested, pursuant to Article 10(1) of Regulation (EU) No 1025/2012, one or more European standardisation organisations to draft a harmonised standard for the essential cybersecurity requirements set out in Annex I and:
+        <ol type="i">
+          <li>the request has not been accepted;</li>
+          <li>the harmonised standards addressing that request are not delivered within the deadline set in accordance with Article 10(1) of Regulation (EU) No 1025/2012; or</li>
+          <li>the harmonised standards do not comply with the request; and</li>
+        </ol>
+      </li>
+      <li>
+        no reference to harmonised standards covering the relevant essential cybersecurity requirements set out in Annex I to this Regulation has been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012 and no such reference is expected to be published within a reasonable period.
+      </li>
+    </ol>
+    <p>Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 62(2).</p>
+  </li>
+
+  <li>
+    Before preparing the draft implementing act referred to in paragraph 2 of this Article, the Commission shall inform the committee referred to in Article 22 of Regulation (EU) No 1025/2012 that it considers that the conditions in paragraph 2 of this Article have been fulfilled.
+  </li>
+
+  <li>
+    When preparing the draft implementing act referred to in paragraph 2, the Commission shall take into account the views of relevant bodies and shall duly consult all relevant stakeholders.
+  </li>
+
+  <li>
+    Products with digital elements and processes put in place by the manufacturer which are in conformity with the common specifications established by implementing acts referred to in paragraph 2 of this Article, or parts thereof, shall be presumed to be in conformity with the essential cybersecurity requirements set out in Annex I covered by those common specifications or parts thereof.
+  </li>
+
+  <li>
+    Where a harmonised standard is adopted by a European standardisation organisation and proposed to the Commission for the purpose of publishing its reference in the Official Journal of the European Union, the Commission shall assess the harmonised standard in accordance with Regulation (EU) No 1025/2012.
+    When a reference of a harmonised standard is published in the Official Journal of the European Union, the Commission shall repeal the implementing acts referred to in paragraph 2 of this Article, or parts thereof which cover the same essential cybersecurity requirements as those covered by that harmonised standard.
+  </li>
+
+  <li>
+    Where a Member State considers that a common specification does not entirely satisfy the essential cybersecurity requirements set out in Annex I, it shall inform the Commission thereof by submitting a detailed explanation. The Commission shall assess that detailed explanation and may, if appropriate, amend the implementing act establishing the common specification in question.
+  </li>
+
+  <li>
+    Products with digital elements and processes put in place by the manufacturer for which an EU statement of conformity or certificate has been issued under a European cybersecurity certification scheme adopted pursuant to Regulation (EU) 2019/881 shall be presumed to be in conformity with the essential cybersecurity requirements set out in Annex I in so far as the EU statement of conformity or European cybersecurity certificate, or parts thereof, cover those requirements.
+  </li>
+
+  <li>
+    The Commission is empowered to adopt delegated acts in accordance with Article 61 of this Regulation to supplement this Regulation by specifying the European cybersecurity certification schemes adopted pursuant to Regulation (EU) 2019/881 that can be used to demonstrate conformity of products with digital elements with the essential cybersecurity requirements or parts thereof as set out in Annex I to this Regulation.
+    Furthermore, the issuance of a European cybersecurity certificate issued under such schemes, at least at assurance level ‘substantial’, eliminates the obligation of a manufacturer to carry out a third-party conformity assessment for the corresponding requirements, as set out in Article 32(2), points (a) and (b), and Article 32(3), points (a) and (b), of this Regulation.
+  </li>
+  </ol>
 </details>
 
 
