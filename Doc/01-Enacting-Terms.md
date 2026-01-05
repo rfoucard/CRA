@@ -1171,10 +1171,279 @@ Taking into account the level of technical development and the approach on confo
 
 <br/>
 <details>
+  <summary><strong>Article 36 - Notifying authorities</strong> Each Member State must appoint a notifying authority (or use its national accreditation body) to assess, designate, notify, and monitor conformity assessment bodies, and remains fully responsible even if tasks are delegated. </summary>
+  <br/>
+  
+<ol>
+  <li>
+    Each Member State shall designate a notifying authority that shall be responsible for setting up and carrying out the necessary procedures for the assessment, designation and notification of conformity assessment bodies and their monitoring, including compliance with Article 41.
+  </li>
+
+  <li>
+    Member States may decide that the assessment and monitoring referred to in paragraph 1 shall be carried out by a national accreditation body within the meaning of and in accordance with Regulation (EC) No 765/2008.
+  </li>
+
+  <li>
+    Where the notifying authority delegates or otherwise entrusts the assessment, notification or monitoring referred to in paragraph 1 of this Article to a body which is not a governmental entity, that body shall be a legal entity and shall comply mutatis mutandis with Article 37. In addition, it shall have arrangements in place to cover liabilities arising from its activities.
+  </li>
+
+  <li>
+    The notifying authority shall take full responsibility for the tasks performed by the body referred to in paragraph 3.
+  </li>
+  </ol>
+</details>
+
+
+
+<br/>
+<details>
+  <summary><strong>Article 37 - Requirements relating to notifying authorities</strong> Notifying authorities must be conflict-free, impartial, and confidential, separate assessors from decision-makers, avoid competing consultancy/services, and have enough competent staff. </summary>
+  <br/>
+  <ol>
+  <li>A notifying authority shall be established in such a way that no conflict of interest with conformity assessment bodies occurs.</li>
+  <li>A notifying authority shall be organised and shall function so as to safeguard the objectivity and impartiality of its activities.</li>
+  <li>A notifying authority shall be organised in such a way that each decision relating to notification of a conformity assessment body is taken by competent persons different from those who carried out the assessment.</li>
+  <li>A notifying authority shall not offer or provide any activities that conformity assessment bodies perform or consultancy services on commercial or competitive basis.</li>
+  <li>A notifying authority shall safeguard the confidentiality of the information it obtains.</li>
+  <li>A notifying authority shall have a sufficient number of competent personnel at its disposal for the proper performance of its tasks.</li>
+</ol>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>Article 38 - Information obligation on notifying authorities</strong> Member States must tell the Commission how they assess/notify and monitor conformity assessment bodies (and any changes), and the Commission must publish that information. </summary>
+  <br/>
+  <ol>
+  <li>
+    Member States shall inform the Commission of their procedures for the assessment and notification of conformity assessment bodies and the monitoring of notified bodies, and of any changes thereto.
+  </li>
+  <li>
+    The Commission shall make the information referred to in paragraph 1 publicly available.
+  </li>
+  </ol>
+</details>
+
+
+
+<br/>
+<details>
+  <summary><strong>Article 39 - Requirements relating to notified bodies</strong> To be notified, conformity assessment bodies must be legally established, independent and impartial, avoid conflicts/consultancy, have competent staff, procedures and resources to perform Annex VIII tasks, protect confidentiality with liability cover, engage in standards/coordination work, and apply fair, proportionate terms (especially for SMEs). </summary>
+  <br/>
+  <ol>
+  <li>
+    For the purposes of notification, a conformity assessment body shall meet the requirements laid down in paragraphs 2 to 12.
+  </li>
+
+  <li>
+    A conformity assessment body shall be established under national law and have legal personality.
+  </li>
+
+  <li>
+    A conformity assessment body shall be a third-party body independent of the organisation or the product with digital elements it assesses.
+    <p>
+      A body belonging to a business association or professional federation representing undertakings involved in the design, development, production, provision, assembly, use or maintenance of products with digital elements which it assesses, may, on condition that its independence and the absence of any conflict of interest are demonstrated, be considered to be such a third-party body.
+    </p>
+  </li>
+
+  <li>
+    A conformity assessment body, its top level management and the personnel responsible for carrying out the conformity assessment tasks shall not be the designer, developer, manufacturer, supplier, importer, distributor, installer, purchaser, owner, user or maintainer of the products with digital elements which they assess, nor the authorised representative of any of those parties.
+    This shall not preclude the use of assessed products that are necessary for the operations of the conformity assessment body or the use of such products for personal purposes.
+    <p>
+      A conformity assessment body, its top level management and the personnel responsible for carrying out the conformity assessment tasks shall not be directly involved in the design, development, production, import, distribution, the marketing, installation, use or maintenance of the products with digital elements which they assess, or represent the parties engaged in those activities.
+      They shall not engage in any activity that may conflict with their independence of judgement or integrity in relation to conformity assessment activities for which they are notified. This shall in particular apply to consultancy services.
+    </p>
+    <p>
+      Conformity assessment bodies shall ensure that the activities of their subsidiaries or subcontractors do not affect the confidentiality, objectivity or impartiality of their conformity assessment activities.
+    </p>
+  </li>
+
+  <li>
+    Conformity assessment bodies and their personnel shall carry out the conformity assessment activities with the highest degree of professional integrity and the requisite technical competence in the specific field and shall be free from all pressures and inducements, particularly financial, which might influence their judgement or the results of their conformity assessment activities, especially as regards persons or groups of persons with an interest in the results of those activities.
+  </li>
+
+  <li>
+    A conformity assessment body shall be capable of carrying out all the conformity assessment tasks referred to in Annex VIII and in relation to which it has been notified, regardless of whether those tasks are carried out by the conformity assessment body itself or on its behalf and under its responsibility.
+    <p>
+      At all times and for each conformity assessment procedure and each kind or category of products with digital elements in relation to which it has been notified, a conformity assessment body shall have at its disposal the necessary:
+    </p>
+    <ol type="a">
+      <li>personnel with technical knowledge and sufficient and appropriate experience to perform the conformity assessment tasks;</li>
+      <li>
+        descriptions of procedures in accordance with which conformity assessment is to be carried out, ensuring the transparency of and ability to reproduce those procedures.
+        It shall have appropriate policies and procedures in place that distinguish between tasks it carries out as a notified body and other activities;
+      </li>
+      <li>
+        procedures for the performance of activities which take due account of the size of an undertaking, the sector in which it operates, its structure, the degree of complexity of the product technology in question and the mass or serial nature of the production process.
+      </li>
+    </ol>
+    <p>
+      A conformity assessment body shall have the means necessary to perform the technical and administrative tasks connected with the conformity assessment activities in an appropriate manner and shall have access to all necessary equipment or facilities.
+    </p>
+  </li>
+
+  <li>
+    The personnel responsible for carrying out conformity assessment activities shall have the following:
+    <ol type="a">
+      <li>sound technical and vocational training covering all the conformity assessment activities in relation to which the conformity assessment body has been notified;</li>
+      <li>satisfactory knowledge of the requirements of the assessments they carry out and adequate authority to carry out those assessments;</li>
+      <li>appropriate knowledge and understanding of the essential cybersecurity requirements set out in Annex I, of the applicable harmonised standards and common specifications, and of the relevant provisions of Union harmonisation legislation and implementing acts;</li>
+      <li>the ability to draw up certificates, records and reports demonstrating that assessments have been carried out.</li>
+    </ol>
+  </li>
+
+  <li>
+    The impartiality of the conformity assessment bodies, their top level management and of the assessment personnel shall be guaranteed.
+    <p>
+      The remuneration of the top level management and assessment personnel of a conformity assessment body shall not depend on the number of assessments carried out or on the results of those assessments.
+    </p>
+  </li>
+
+  <li>
+    Conformity assessment bodies shall take out liability insurance unless liability is assumed by their Member State in accordance with national law, or the Member State itself is directly responsible for the conformity assessment.
+  </li>
+
+  <li>
+    The personnel of a conformity assessment body shall observe professional secrecy with regard to all information obtained in carrying out their tasks under Annex VIII or any provision of national law giving effect to it, except in relation to the market surveillance authorities of the Member State in which its activities are carried out.
+    Proprietary rights shall be protected.
+    The conformity assessment body shall have documented procedures ensuring compliance with this paragraph.
+  </li>
+
+  <li>
+    Conformity assessment bodies shall participate in, or ensure that their assessment personnel are informed of, the relevant standardisation activities and the activities of the notified body coordination group established under Article 51 and apply as general guidance the administrative decisions and documents produced as a result of the work of that group.
+  </li>
+
+  <li>
+    Conformity assessment bodies shall operate in accordance with a set of consistent, fair, proportionate and reasonable terms and conditions, while avoiding unnecessary burden for economic operators, in particular taking into account the interests of microenterprises and small and medium-sized enterprises in relation to fees.
+  </li>
+  </ol>
+</details>
+
+
+<br/>
+<details>
   <summary><strong>  </strong>  </summary>
   <br/>
 </details>
 
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
 
 
 <br/>
