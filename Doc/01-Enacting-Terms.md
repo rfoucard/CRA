@@ -1653,7 +1653,7 @@ Taking into account the level of technical development and the approach on confo
 
 <br/>
 <details>
-  <summary>Article 53 - <strong>  </strong> Market surveillance authorities must, on reasoned request, get access to the data and internal documents they need to check Annex I compliance.</summary>
+  <summary><strong>Article 53 - Access to data and documentation</strong> Market surveillance authorities must, on reasoned request, get access to the data and internal documents they need to check Annex I compliance.</summary>
   <br/>
   <ol>
   <li>
