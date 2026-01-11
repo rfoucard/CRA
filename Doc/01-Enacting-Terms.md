@@ -1560,8 +1560,94 @@ Taking into account the level of technical development and the approach on confo
 
 
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong> Article 52 - Market surveillance and control of products with digital elements in the Union market</strong> Member States must appoint and resource market surveillance authorities to enforce the CRA (including steward obligations), coordinate with certification, CSIRTs/ENISA, data protection and other MSAs, guide operators and inform consumers, report annually to the Commission, align oversight for high-risk AI systems, and work via an ADCO group that also publishes support-period stats and guidance.</summary>
   <br/>
+  <ol>
+  <li>
+    Regulation (EU) 2019/1020 shall apply to products with digital elements that fall within the scope of this Regulation.
+  </li>
+
+  <li>
+    Each Member State shall designate one or more market surveillance authorities for the purpose of ensuring the effective implementation of this Regulation.
+    Member States may designate an existing or new authority to act as market surveillance authority for this Regulation.
+  </li>
+
+  <li>
+    The market surveillance authorities designated under paragraph 2 of this Article shall also be responsible for carrying out market surveillance activities in relation to the obligations for open-source software stewards laid down in Article 24.
+    Where a market surveillance authority finds that an open-source software steward does not comply with the obligations set out in that Article, it shall require the open-source software steward to ensure that all appropriate corrective actions are taken.
+    Open-source software stewards shall ensure that all appropriate corrective action is taken in respect of their obligations under this Regulation.
+  </li>
+
+  <li>
+    Where relevant, the market surveillance authorities shall cooperate with the national cybersecurity certification authorities designated pursuant to Article 58 of Regulation (EU) 2019/881 and exchange information on a regular basis.
+    With respect to the supervision of the implementation of the reporting obligations pursuant to Article 14 of this Regulation, the designated market surveillance authorities shall cooperate and exchange information on a regular basis with the CSIRTs designated as coordinators and ENISA.
+  </li>
+
+  <li>
+    The market surveillance authorities may request a CSIRT designated as coordinator or ENISA to provide technical advice on matters related to the implementation and enforcement of this Regulation.
+    When conducting an investigation under Article 54, market surveillance authorities may request the CSIRT designated as coordinator or ENISA to provide an analysis to support evaluations of compliance of products with digital elements.
+  </li>
+
+  <li>
+    Where relevant, the market surveillance authorities shall cooperate with other market surveillance authorities designated on the basis of Union harmonisation legislation other than this Regulation, and exchange information on a regular basis.
+  </li>
+
+  <li>
+    Market surveillance authorities shall cooperate, as appropriate, with the authorities supervising Union data protection law.
+    Such cooperation includes informing those authorities of any finding relevant for the fulfilment of their competences, including when issuing guidance and advice pursuant to paragraph 10 if such guidance and advice concerns the processing of personal data.
+    <p>
+      Authorities supervising Union data protection law shall have the power to request and access any documentation created or maintained under this Regulation when access to that documentation is necessary for the fulfilment of their tasks.
+      They shall inform the designated market surveillance authorities of the Member State concerned of any such request.
+    </p>
+  </li>
+
+  <li>
+    Member States shall ensure that the designated market surveillance authorities are provided with adequate financial and technical resources, including, where appropriate, processing automation tools, as well as with human resources with the necessary cybersecurity skills to fulfil their tasks under this Regulation.
+  </li>
+
+  <li>
+    The Commission shall encourage and facilitate the exchange of experience between designated market surveillance authorities.
+  </li>
+
+  <li>
+    Market surveillance authorities may provide guidance and advice to economic operators on the implementation of this Regulation, with the support of the Commission and, where appropriate, CSIRTs and ENISA.
+  </li>
+
+  <li>
+    Market surveillance authorities shall inform consumers of where to submit complaints that could indicate non-compliance with this Regulation, in accordance with Article 11 of Regulation (EU) 2019/1020, and shall provide information to consumers on where and how to access mechanisms to facilitate reporting of vulnerabilities, incidents and cyber threats that may affect products with digital elements.
+  </li>
+
+  <li>
+    Market surveillance authorities shall facilitate, where relevant, the cooperation with relevant stakeholders, including scientific, research and consumer organisations.
+  </li>
+
+  <li>
+    The market surveillance authorities shall report to the Commission on an annual basis the outcomes of relevant market surveillance activities.
+    The designated market surveillance authorities shall report, without delay, to the Commission and relevant national competition authorities any information identified in the course of market surveillance activities that may be of potential interest for the application of Union competition law.
+  </li>
+
+  <li>
+    For products with digital elements that fall within the scope of this Regulation which are classified as high-risk AI systems pursuant to Article 6 of Regulation (EU) 2024/1689, the market surveillance authorities designated for the purposes of that Regulation shall be the authorities responsible for market surveillance activities required under this Regulation.
+    The market surveillance authorities designated pursuant to Regulation (EU) 2024/1689 shall cooperate, as appropriate, with the market surveillance authorities designated pursuant to this Regulation and, with respect to the supervision of the implementation of the reporting obligations pursuant to Article 14 of this Regulation, with the CSIRTs designated as coordinators and ENISA.
+    Market surveillance authorities designated pursuant to Regulation (EU) 2024/1689 shall in particular inform market surveillance authorities designated pursuant to this Regulation of any finding relevant for the fulfilment of their tasks in relation to the implementation of this Regulation.
+  </li>
+
+  <li>
+    ADCO shall be established for the uniform application of this Regulation, pursuant to Article 30(2) of Regulation (EU) 2019/1020.
+    ADCO shall be composed of representatives of the designated market surveillance authorities and, if appropriate, representatives of single liaison offices.
+    ADCO shall also address specific matters related to the market surveillance activities in relation to the obligations placed on open-source software stewards.
+  </li>
+
+  <li>
+    Market surveillance authorities shall monitor how manufacturers have applied the criteria referred to in Article 13(8) when determining the support period of their products with digital elements.
+    <p>
+      ADCO shall publish in a publicly accessible and user-friendly form relevant statistics on categories of products with digital elements, including average support periods, as determined by the manufacturer pursuant to Article 13(8), as well as provide guidance that includes indicative support periods for categories of products with digital elements.
+    </p>
+    <p>
+      Where the data suggests inadequate support periods for specific categories of products with digital elements, ADCO may issue recommendations to market surveillance authorities to focus their activities on such categories of products with digital elements.
+    </p>
+  </li>
+</ol>
 </details>
 
 
