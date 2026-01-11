@@ -1726,8 +1726,31 @@ Taking into account the level of technical development and the approach on confo
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 55 - Union safeguard procedure</strong> If objections are raised (or the Commission doubts legality), the Commission must review the national measure, decide within 9 months whether it is justified, trigger EU-wide withdrawal if justified (or withdrawal of the measure if not), and address any underlying flaws in standards, certification schemes, or common specifications.</summary>
   <br/>
+  <ol>
+  <li>
+    Where, within three months of receipt of the notification referred to in Article 54(5), objections are raised by a Member State against a measure taken by another Member State, or where the Commission considers the measure to be contrary to Union law, the Commission shall without delay enter into consultation with the relevant Member State and the economic operator or operators and shall evaluate the national measure.
+    On the basis of the results of that evaluation, the Commission shall decide whether the national measure is justified or not within nine months from the notification referred to in Article 54(5) and notify that decision to the Member State concerned.
+  </li>
+
+  <li>
+    If the national measure is considered to be justified, all Member States shall take the measures necessary to ensure that the non-compliant product with digital elements is withdrawn from their market, and shall inform the Commission accordingly.
+    If the national measure is not considered to be justified, the Member State concerned shall withdraw the measure.
+  </li>
+
+  <li>
+    Where the national measure is considered to be justified and the non-compliance of the product with digital elements is attributed to shortcomings in the harmonised standards, the Commission shall apply the procedure provided for in Article 11 of Regulation (EU) No 1025/2012.
+  </li>
+
+  <li>
+    Where the national measure is considered to be justified and the non-compliance of the product with digital elements is attributed to shortcomings in a European cybersecurity certification scheme as referred to in Article 27, the Commission shall consider whether to amend or repeal any delegated act adopted pursuant to Article 27(9) that specifies the presumption of conformity concerning that certification scheme.
+  </li>
+
+  <li>
+    Where the national measure is considered to be justified and the non-compliance of the product with digital elements is attributed to shortcomings in common specifications as referred to in Article 27, the Commission shall consider whether to amend or repeal any implementing act adopted pursuant to Article 27(2) setting out those common specifications.
+  </li>
+</ol>
 </details>
 
 
