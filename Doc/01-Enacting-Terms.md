@@ -1800,8 +1800,68 @@ Taking into account the level of technical development and the approach on confo
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 57 - Compliant products with digital elements which present a significant cybersecurity risk</strong> Even if a product complies with the CRA, authorities must order EU-wide corrective action (up to withdrawal/recall) if it still poses significant cybersecurity or public-interest risks, and the Commission can escalate to EU-level measures with ENISA support. </summary>
   <br/>
+  <ol>
+  <li>
+    The market surveillance authority of a Member State shall require an economic operator to take all appropriate measures where, having performed an evaluation under Article 54, it finds that although a product with digital elements and the processes put in place by the manufacturer are in compliance with this Regulation, they present a significant cybersecurity risk as well as a risk to:
+    <ol type="a">
+      <li>the health or safety of persons;</li>
+      <li>the compliance with obligations under Union or national law intended to protect fundamental rights;</li>
+      <li>the availability, authenticity, integrity or confidentiality of services offered using an electronic information system by essential entities as referred to in Article 3(1) of Directive (EU) 2022/2555; or</li>
+      <li>other aspects of public interest protection.</li>
+    </ol>
+    <p>
+      The measures referred to in the first subparagraph may include measures to ensure that the product with digital elements concerned and the processes put in place by the manufacturer no longer present the relevant risks when made available on the market, withdrawal from the market of the product with digital elements concerned, or recalling of it, and shall be commensurate with the nature of those risks.
+    </p>
+  </li>
+
+  <li>
+    The manufacturer or other relevant economic operators shall ensure that corrective action is taken in respect of the products with digital elements concerned that they have made available on the market throughout the Union within the timeline established by the market surveillance authority of the Member State referred to in paragraph 1.
+  </li>
+
+  <li>
+    The Member State shall immediately inform the Commission and the other Member States about the measures taken pursuant to paragraph 1.
+    That information shall include all available details, in particular the data necessary for the identification of the products with digital elements concerned, the origin and the supply chain of those products with digital elements, the nature of the risk involved and the nature and duration of the national measures taken.
+  </li>
+
+  <li>
+    The Commission shall without delay enter into consultation with the Member States and the relevant economic operator and shall evaluate the national measures taken.
+    On the basis of the results of that evaluation, the Commission shall decide whether the measure is justified or not and, where necessary, propose appropriate measures.
+  </li>
+
+  <li>
+    The Commission shall address the decision referred to in paragraph 4 to the Member States.
+  </li>
+
+  <li>
+    Where the Commission has sufficient reason to consider, including based on information provided by ENISA, that a product with digital elements, although compliant with this Regulation, presents the risks referred to in paragraph 1 of this Article, it shall inform and may request the relevant market surveillance authority or authorities to carry out an evaluation and follow the procedures referred to in Article 54 and in paragraphs 1, 2 and 3 of this Article.
+  </li>
+
+  <li>
+    In circumstances which justify an immediate intervention to preserve the proper functioning of the internal market and where the Commission has sufficient reason to consider that the product with digital elements referred to in paragraph 6 continues to present the risks referred to in paragraph 1, and no effective measures have been taken by the relevant national market surveillance authorities, the Commission shall carry out an evaluation of the risks presented by that product with digital elements and may request ENISA to provide an analysis to support that evaluation and shall inform the relevant market surveillance authorities accordingly.
+    The relevant economic operators shall cooperate with ENISA as necessary.
+  </li>
+
+  <li>
+    Based on the evaluation referred to in paragraph 7, the Commission may establish that a corrective or restrictive measure is necessary at Union level.
+    To that end, it shall without delay consult the Member States concerned and the relevant economic operator or operators.
+  </li>
+
+  <li>
+    On the basis of the consultation referred to in paragraph 8 of this Article, the Commission may adopt implementing acts to decide on corrective or restrictive measures at Union level, including requiring the products with digital elements concerned to be withdrawn from the market, or recalled, within a reasonable period, commensurate with the nature of the risk.
+    Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 62(2).
+  </li>
+
+  <li>
+    The Commission shall immediately communicate the implementing acts referred to in paragraph 9 to the relevant economic operator or operators.
+    Member States shall implement those implementing acts without delay and shall inform the Commission accordingly.
+  </li>
+
+  <li>
+    Paragraphs 6 to 10 shall apply for the duration of the exceptional situation that justified the Commission’s intervention and for as long as the product with digital elements concerned continues to present the risks referred to in paragraph 1.
+  </li>
+</ol>
 </details>
 
 
