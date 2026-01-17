@@ -2193,8 +2193,17 @@ Taking into account the level of technical development and the approach on confo
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 70 - Evaluation and review</strong> The Commission must publish every 4 years CRA evaluation reports starting by 11 December 2030 and deliver a separate report by 11 September 2028 on how effective the Article 16 single reporting platform is, after consulting ENISA and the CSIRTs network.</summary>
   <br/>
+  <ol>
+  <li>
+    By 11 December 2030 and every four years thereafter, the Commission shall submit a report on the evaluation and review of this Regulation to the European Parliament and to the Council.
+    Those reports shall be made public.
+  </li>
+  <li>
+    By 11 September 2028, the Commission shall, after consulting ENISA and the CSIRTs network, submit a report to the European Parliament and to the Council, assessing the effectiveness of the single reporting platform set out in Article 16, as well as the impact of the application of the cybersecurity-related grounds referred to Article 16(2) by the CSIRTs designated as coordinators on the effectiveness of the single reporting platform as regards the timely dissemination of received notifications to other relevant CSIRTs.
+  </li>
+</ol>
 </details>
 
 
