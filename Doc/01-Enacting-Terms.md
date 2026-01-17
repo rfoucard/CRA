@@ -2133,15 +2133,42 @@ Taking into account the level of technical development and the approach on confo
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 67 - Amendment to Directive (EU) 2020/1828</strong> The Cyber Resilience Act is added to the EU “representative actions” list, so qualified bodies can bring consumer collective actions for breaches of that regulation.</summary>
   <br/>
+  In Annex I to Directive (EU) 2020/1828, the following point is added:
+  <br/>
+  ‘69.Regulation (EU) 2024/2847 of the European Parliament and of the Council 
 </details>
 
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>  </strong> EU type-approval for L-category vehicles regulation (EU No 168/2013) is amended to add “protection against cyberattacks” as a required compliance.</summary>
   <br/>
+  In Part C1, in the table, of Annex II to Regulation (EU) No 168/2013 of the European Parliament and of the Council (38), the following entry is added:
+  <br/>
+  <table>
+  <tr>
+    <td>16</td>
+    <td>18</td>
+    <td>protection of vehicle against cyberattacks</td>
+    <td></td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+  </tr>
+</table>
 </details>
 
 
