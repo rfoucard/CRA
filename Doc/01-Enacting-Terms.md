@@ -2,8 +2,8 @@
 
 **This version proposes simplified summaries as "TLDR;", but you can read the original text clicking on the summaries.**
 
-- **Estimated reading time (summaries only):** ~XX minutes  
-- **Estimated reading time (full text + summaries):** ~XX minutes
+- **Estimated reading time (summaries only):** ~20 minutes  
+- **Estimated reading time (full text + summaries):** ~4 hours
 
 ## Chapter I - General Provisions
 
