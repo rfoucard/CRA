@@ -17,6 +17,7 @@ The annexes are ... **In short: annexes provide the “...”.**
   Products with digital elements must be secure-by-design and risk-based, shipped without known exploitable vulnerabilities, configured secure-by-default, updateable, and able to protect access, confidentiality, integrity, availability, logging, minimised data use, reduced attack surface, and secure data deletion.
   </summary>
   <br/>
+
 <ol>
   <li>
     Products with digital elements shall be designed, developed and produced in such a way that they ensure an appropriate level of cybersecurity based on the risks.
@@ -24,47 +25,48 @@ The annexes are ... **In short: annexes provide the “...”.**
 
   <li>
     On the basis of the cybersecurity risk assessment referred to in Article 13(2) and where applicable, products with digital elements shall:
-    <ol type="a">
-      <li>be made available on the market without known exploitable vulnerabilities;</li>
+    <ol>
+      <li>(a) be made available on the market without known exploitable vulnerabilities;</li>
       <li>
-        be made available on the market with a secure by default configuration, unless otherwise agreed between manufacturer and business user in relation to a tailor-made product with digital elements, including the possibility to reset the product to its original state;
+        (b) be made available on the market with a secure by default configuration, unless otherwise agreed between manufacturer and business user in relation to a tailor-made product with digital elements, including the possibility to reset the product to its original state;
       </li>
       <li>
-        ensure that vulnerabilities can be addressed through security updates, including, where applicable, through automatic security updates that are installed within an appropriate timeframe enabled as a default setting, with a clear and easy-to-use opt-out mechanism, through the notification of available updates to users, and the option to temporarily postpone them;
+        (c) ensure that vulnerabilities can be addressed through security updates, including, where applicable, through automatic security updates that are installed within an appropriate timeframe enabled as a default setting, with a clear and easy-to-use opt-out mechanism, through the notification of available updates to users, and the option to temporarily postpone them;
       </li>
       <li>
-        ensure protection from unauthorised access by appropriate control mechanisms, including but not limited to authentication, identity or access management systems, and report on possible unauthorised access;
+        (d) ensure protection from unauthorised access by appropriate control mechanisms, including but not limited to authentication, identity or access management systems, and report on possible unauthorised access;
       </li>
       <li>
-        protect the confidentiality of stored, transmitted or otherwise processed data, personal or other, such as by encrypting relevant data at rest or in transit by state of the art mechanisms, and by using other technical means;
+        (e) protect the confidentiality of stored, transmitted or otherwise processed data, personal or other, such as by encrypting relevant data at rest or in transit by state of the art mechanisms, and by using other technical means;
       </li>
       <li>
-        protect the integrity of stored, transmitted or otherwise processed data, personal or other, commands, programs and configuration against any manipulation or modification not authorised by the user, and report on corruptions;
+        (f) protect the integrity of stored, transmitted or otherwise processed data, personal or other, commands, programs and configuration against any manipulation or modification not authorised by the user, and report on corruptions;
       </li>
       <li>
-        process only data, personal or other, that are adequate, relevant and limited to what is necessary in relation to the intended purpose of the product with digital elements (data minimisation);
+        (g) process only data, personal or other, that are adequate, relevant and limited to what is necessary in relation to the intended purpose of the product with digital elements (data minimisation);
       </li>
       <li>
-        protect the availability of essential and basic functions, also after an incident, including through resilience and mitigation measures against denial-of-service attacks;
+        (h) protect the availability of essential and basic functions, also after an incident, including through resilience and mitigation measures against denial-of-service attacks;
       </li>
       <li>
-        minimise the negative impact by the products themselves or connected devices on the availability of services provided by other devices or networks;
+        (i) minimise the negative impact by the products themselves or connected devices on the availability of services provided by other devices or networks;
       </li>
       <li>
-        be designed, developed and produced to limit attack surfaces, including external interfaces;
+        (j) be designed, developed and produced to limit attack surfaces, including external interfaces;
       </li>
       <li>
-        be designed, developed and produced to reduce the impact of an incident using appropriate exploitation mitigation mechanisms and techniques;
+        (k) be designed, developed and produced to reduce the impact of an incident using appropriate exploitation mitigation mechanisms and techniques;
       </li>
       <li>
-        provide security related information by recording and monitoring relevant internal activity, including the access to or modification of data, services or functions, with an opt-out mechanism for the user;
+        (l) provide security related information by recording and monitoring relevant internal activity, including the access to or modification of data, services or functions, with an opt-out mechanism for the user;
       </li>
       <li>
-        provide the possibility for users to securely and easily remove on a permanent basis all data and settings and, where such data can be transferred to other products or systems, ensure that this is done in a secure manner.
+        (m) provide the possibility for users to securely and easily remove on a permanent basis all data and settings and, where such data can be transferred to other products or systems, ensure that this is done in a secure manner.
       </li>
     </ol>
   </li>
 </ol>
+
 
   </details>
 <br/>
