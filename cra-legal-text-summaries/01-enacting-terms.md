@@ -237,10 +237,8 @@ Member States must allow compliant products on the market, while permitting non-
   <li>
     The Commission is empowered to adopt delegated acts in accordance with Article 61 to amend Annex IV by adding or withdrawing categories of critical products with digital elements.
     When determining such categories of critical products with digital elements and the required assurance level, in accordance with paragraph 1 of this Article, the Commission shall take into account the criteria referred to in Article 7(2) and ensure that the categories of products with digital elements meet at least one of the following criteria:
-    <ol type="a">
-      <li>there is a critical dependency of essential entities as referred to in Article 3 of Directive (EU) 2022/2555 on the category of products with digital elements;</li>
-      <li>incidents and exploited vulnerabilities concerning the category of products with digital elements could lead to serious disruptions of critical supply chains across the internal market.</li>
-    </ol>
+    <p>(a) there is a critical dependency of essential entities as referred to in Article 3 of Directive (EU) 2022/2555 on the category of products with digital elements;</p>
+    <p>(b) incidents and exploited vulnerabilities concerning the category of products with digital elements could lead to serious disruptions of critical supply chains across the internal market.</p>
     <p>
       Before adopting such delegated acts, the Commission shall carry out an assessment of the type referred to in paragraph 1.
     </p>
