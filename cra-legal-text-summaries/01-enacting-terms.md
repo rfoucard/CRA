@@ -258,13 +258,9 @@ Member States must allow compliant products on the market, while permitting non-
   <li>
     When preparing measures for the implementation of this Regulation, the Commission shall consult and take into account the views of relevant stakeholders, such as relevant Member State authorities, private sector undertakings, including microenterprises and small and medium-sized enterprises, the open-source software community, consumer associations, academia, and relevant Union agencies and bodies as well as expert groups established at Union level.
     In particular, the Commission shall, in a structured manner, where appropriate, consult and seek the views of those stakeholders when:
-    <ol type="a">
-      <li>preparing the guidance referred to in Article 26;</li>
-      <li>
-        preparing the technical descriptions of the product categories set out in Annex III in accordance with Article 7(4), assessing the need for potential updates of the list of product categories in accordance with Article 7(3) and Article 8(2), or carrying out the assessment of the potential market impact referred to in Article 8(1), without prejudice to Article 61;
-      </li>
-      <li>undertaking preparatory work for the evaluation and review of this Regulation.</li>
-    </ol>
+    <p>(a) preparing the guidance referred to in Article 26;</p>
+    <p>(b) preparing the technical descriptions of the product categories set out in Annex III in accordance with Article 7(4), assessing the need for potential updates of the list of product categories in accordance with Article 7(3) and Article 8(2), or carrying out the assessment of the potential market impact referred to in Article 8(1), without prejudice to Article 61;</p>
+    <p>(c) undertaking preparatory work for the evaluation and review of this Regulation.</p>
   </li>
 
   <li>
