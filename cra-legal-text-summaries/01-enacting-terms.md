@@ -445,14 +445,7 @@ Member States must allow compliant products on the market, while permitting non-
 
   <li>
     For the purposes of the notification referred to in paragraph 1, the manufacturer shall submit:
-    Ignorer et passer au contenu
-Historique de chat
 
-
-
-
-Vous avez dit :
-peux tu synthétiser en une phrase la plus courte possible en anglais le texte suivant extrait du Cyber Resilience Act:
 1.   This Regulation applies to products with digital elements made available on the market, the intended purpose or reasonably foreseeable use of which includes a direct or indirect logical or physical data connection to a device or network.
 
 2.   This Regulation does not apply to products with digital elements to which the following Union legal acts apply:
@@ -491,8 +484,6 @@ The Commission is empowered to adopt delegated acts in accordance with Article 6
 
 8.   The obligations laid down in this Regulation shall not entail the supply of information the disclosure of which would be contrary to the essential interests of Member States’ national security, public security or defence.
 
-puis le reformatter en ol numéroté et sous ol type a
-ChatGPT a dit :
 This Regulation covers market-placed products with digital elements that can connect (directly or indirectly) to a device or network, but excludes certain sector-regulated/certified products, spare parts, and national security/defence cases, and allows the Commission to narrow/exclude scope via delegated acts.
 
 Does not apply to products with digital elements covered by:
@@ -515,13 +506,8 @@ Does not apply to products developed/modified exclusively for national security 
 
 Obligations do not require disclosing information contrary to essential Member State interests in national/public security or defence.
 
-Vous avez dit :
-désolé ce n'était pas clair d'abord résumer tout e texte en une seule phrase très courte. Puis dans un second temps reprendre le texte original et le regénérer avec des liste en markdown 
-ChatGPT a dit :
-One very short sentence (EN):
 This Regulation applies to connected digital products placed on the market, with key exclusions (certain sector-regulated/certified products, spare parts, and security/defence) and a power for the Commission to уточ refine scope via delegated acts.
 
-Original text reformatted in Markdown lists
 This Regulation applies to products with digital elements made available on the market, the intended purpose or reasonably foreseeable use of which includes a direct or indirect logical or physical data connection to a device or network.
 
 This Regulation does not apply to products with digital elements to which the following Union legal acts apply:
@@ -545,10 +531,6 @@ This Regulation does not apply to products with digital elements developed or mo
 
 The obligations laid down in this Regulation shall not entail the supply of information the disclosure of which would be contrary to the essential interests of Member States’ national security, public security or defence.
 
-Vous avez dit :
-peux tu le générer avec le code html stp
-ChatGPT a dit :
-<p><strong>One very short sentence (EN):</strong><br>
 This Regulation applies to connected digital products placed on the market, with key exclusions (certain sector-regulated/certified products, spare parts, and security/defence) and a power for the Commission to refine scope via delegated acts.</p>
 
 <ol>
@@ -596,8 +578,6 @@ This Regulation applies to connected digital products placed on the market, with
     The obligations laid down in this Regulation shall not entail the supply of information the disclosure of which would be contrary to the essential interests of Member States’ national security, public security or defence.
   </li>
 </ol>
-Vous avez dit :
-peux tu formatter en liste numérotées html le texte suivant:
 
 (1)
 
@@ -802,7 +782,6 @@ peux tu formatter en liste numérotées html le texte suivant:
 (51)
 
 ‘CSIRT designated as coordinator’ means a CSIRT designated as coordinator pursuant to Article 12(1) of Directive (EU) 2022/2555.
-ChatGPT a dit :
 <ol>
   <li>‘product with digital elements’ means a software or hardware product and its remote data processing solutions, including software or hardware components being placed on the market separately;</li>
   <li>‘remote data processing’ means data processing at a distance for which the software is designed and developed by the manufacturer, or under the responsibility of the manufacturer, and the absence of which would prevent the product with digital elements from performing one of its functions;</li>
@@ -856,9 +835,7 @@ ChatGPT a dit :
   <li>‘withdrawal’ means withdrawal as defined in Article 3, point (23), of Regulation (EU) 2019/1020;</li>
   <li>‘CSIRT designated as coordinator’ means a CSIRT designated as coordinator pursuant to Article 12(1) of Directive (EU) 2022/2555.</li>
 </ol>
-Vous avez dit :
-peux tu mettre dans des balises strong les textes qui sont entre ‘ et ’
-ChatGPT a dit :
+
 <ol>
   <li><strong>product with digital elements</strong> means a software or hardware product and its remote data processing solutions, including software or hardware components being placed on the market separately;</li>
   <li><strong>remote data processing</strong> means data processing at a distance for which the software is designed and developed by the manufacturer, or under the responsibility of the manufacturer, and the absence of which would prevent the product with digital elements from performing one of its functions;</li>
@@ -921,12 +898,8 @@ peux tu résumer en une phrase courte en anglais le texte suivant, puis en desso
 3.   Member States shall not prevent the making available on the market of unfinished software which does not comply with this Regulation, provided that the software is made available only for a limited period required for testing purposes with a visible sign clearly indicating that it does not comply with this Regulation and that it will not be available on the market for purposes other than testing.
 
 4.   Paragraph 3 does not apply to safety components as referred to in Union harmonisation legislation other than this Regulation.
-ChatGPT a dit :
-Short one-sentence summary (EN):
-Member States must allow compliant products on the market, while permitting non-compliant prototypes and limited-time test software under clear “not compliant” signage, except for certain safety components.
 
-<p><strong>Short one-sentence summary (EN):</strong><br>
-Member States must allow compliant products on the market, while permitting non-compliant prototypes and limited-time test software under clear “not compliant” signage, except for certain safety components.</p>
+Member States must allow compliant products on the market, while permitting non-compliant prototypes and limited-time test software under clear “not compliant” signage, except for certain safety components.
 
 <ol>
   <li>
