@@ -235,12 +235,16 @@ The annexes are ... **In short: annexes provide the “...”.**
 <details>
   <summary>
     <strong>
-      bold -
+      The simplified EU Declaration
     </strong>
-  regular
+  is a short manufacturer statement of CRA compliance plus a link to the full EU Declaration of Conformity.
   </summary>
   <br/>
-  detail
+  The simplified EU declaration of conformity referred to in Article 13(20) shall be provided as follows:
+
+  Hereby, … [name of manufacturer] declares that the product with digital elements type … [designation of type of product with digital element] is in compliance with Regulation (EU) 2024/2847 (1).
+
+  The full text of the EU declaration of conformity is available at the following internet address: …
   </details>
 <br/>
 
