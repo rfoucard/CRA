@@ -302,11 +302,9 @@ Member States must allow compliant products on the market, while permitting non-
   <ol>
   <li>
     Without prejudice to the requirements relating to accuracy and robustness set out in Article 15 of Regulation (EU) 2024/1689, products with digital elements which fall within the scope of this Regulation and which are classified as high-risk AI systems pursuant to Article 6 of that Regulation shall be deemed to comply with the cybersecurity requirements set out in Article 15 of that Regulation where:
-    <ol type="a">
-      <li>those products fulfil the essential cybersecurity requirements set out in Part I of Annex I;</li>
-      <li>the processes put in place by the manufacturer comply with the essential cybersecurity requirements set out in Part II of Annex I; and</li>
-      <li>the achievement of the level of cybersecurity protection required under Article 15 of Regulation (EU) 2024/1689 is demonstrated in the EU declaration of conformity issued under this Regulation.</li>
-    </ol>
+    <p>(a) those products fulfil the essential cybersecurity requirements set out in Part I of Annex I;</p>
+    <p>(b) the processes put in place by the manufacturer comply with the essential cybersecurity requirements set out in Part II of Annex I; and</p>
+    <p>(c) the achievement of the level of cybersecurity protection required under Article 15 of Regulation (EU) 2024/1689 is demonstrated in the EU declaration of conformity issued under this Regulation.</p>
   </li>
 
   <li>
