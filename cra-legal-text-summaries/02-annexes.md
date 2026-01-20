@@ -316,18 +316,20 @@ The annexes are ... **In short: annexes provide the “...”.**
     The manufacturer shall draw up the technical documentation described in Annex VII.
   </li>
   <li>
-    <p><strong>Design, development, production and vulnerability handling of products with digital elements</strong></p>
+    Design, development, production and vulnerability handling of products with digital elements
+    
     The manufacturer shall take all measures necessary so that the design, development, production and vulnerability handling processes and their monitoring ensure compliance of the manufactured or developed products with digital elements and of the processes put in place by the manufacturer with the essential cybersecurity requirements set out in Parts I and II of Annex I.
   </li>
   <li>
-    <p><strong>Conformity marking and declaration of conformity</strong></p>
+    Conformity marking and declaration of conformity
     <div>
       <p>4.1. The manufacturer shall affix the CE marking to each individual product with digital elements that satisfies the applicable requirements set out in this Regulation.</p>
       <p>4.2. The manufacturer shall draw up a written EU declaration of conformity for each product with digital elements in accordance with Article 28 and keep it together with the technical documentation at the disposal of the national authorities for 10 years after the product with digital elements has been placed on the market or for the support period, whichever is longer. The EU declaration of conformity shall identify the product with digital elements for which it has been drawn up. A copy of the EU declaration of conformity shall be made available to the relevant authorities upon request.</p>
     </div>
   </li>
   <li>
-    <p><strong>Authorised representatives</strong></p>
+    Authorised representatives
+    
     The manufacturer’s obligations set out in point 4 may be fulfilled by its authorised representative, on its behalf and under its responsibility, provided that the relevant obligations are specified in the mandate.
   </li>
 </ol>
