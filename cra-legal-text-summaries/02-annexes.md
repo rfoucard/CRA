@@ -303,12 +303,34 @@ The annexes are ... **In short: annexes provide the “...”.**
 <details>
   <summary>
     <strong>
-      bold -
+      Part I Conformity assessment procedure based on internal control (based on module A) -
     </strong>
-  regular
+  Module A is self-assessment: the manufacturer keeps technical documentation, ensures compliant design/production/vulnerability handling, affixes the CE mark, and issues/retains the EU DoC (optionally via an authorised representative for the marking/DoC tasks).
   </summary>
   <br/>
-  detail
+  <ol>
+  <li>
+    Internal control is the conformity assessment procedure whereby the manufacturer fulfils the obligations set out in points 2, 3 and 4 of this Part, and ensures and declares on its sole responsibility that the products with digital elements satisfy all the essential cybersecurity requirements set out in Part I of Annex I and the manufacturer meets the essential cybersecurity requirements set out in Part II of Annex I.
+  </li>
+  <li>
+    The manufacturer shall draw up the technical documentation described in Annex VII.
+  </li>
+  <li>
+    <p><strong>Design, development, production and vulnerability handling of products with digital elements</strong></p>
+    The manufacturer shall take all measures necessary so that the design, development, production and vulnerability handling processes and their monitoring ensure compliance of the manufactured or developed products with digital elements and of the processes put in place by the manufacturer with the essential cybersecurity requirements set out in Parts I and II of Annex I.
+  </li>
+  <li>
+    <p><strong>Conformity marking and declaration of conformity</strong></p>
+    <div>
+      <p>4.1. The manufacturer shall affix the CE marking to each individual product with digital elements that satisfies the applicable requirements set out in this Regulation.</p>
+      <p>4.2. The manufacturer shall draw up a written EU declaration of conformity for each product with digital elements in accordance with Article 28 and keep it together with the technical documentation at the disposal of the national authorities for 10 years after the product with digital elements has been placed on the market or for the support period, whichever is longer. The EU declaration of conformity shall identify the product with digital elements for which it has been drawn up. A copy of the EU declaration of conformity shall be made available to the relevant authorities upon request.</p>
+    </div>
+  </li>
+  <li>
+    <p><strong>Authorised representatives</strong></p>
+    The manufacturer’s obligations set out in point 4 may be fulfilled by its authorised representative, on its behalf and under its responsibility, provided that the relevant obligations are specified in the mandate.
+  </li>
+</ol>
   </details>
 <br/>
 
