@@ -12,7 +12,7 @@ The annexes are ... **In short: annexes provide the “...”.**
 <details>
   <summary>
     <strong>
-      Part I Cybersecurity requirements relating to the properties of products with digital elements
+      Part I Cybersecurity requirements relating to the properties of products with digital elements -
     </strong>
   Products with digital elements must be secure-by-design and risk-based, shipped without known exploitable vulnerabilities, configured secure-by-default, updateable, and able to protect access, confidentiality, integrity, availability, logging, minimised data use, reduced attack surface, and secure data deletion.
   </summary>
