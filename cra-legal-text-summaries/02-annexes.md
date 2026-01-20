@@ -86,7 +86,7 @@ The annexes are ... **In short: annexes provide the “...”.**
 <details>
   <summary>
     <strong>
-      Users must receive clear information -
+      Users must receive clear information such as
     </strong>
    identification, contact and vulnerability-reporting details, intended purpose and security info, risk warnings, compliance/support details, and practical instructions for secure use, updates, and end-of-life.
   </summary>
