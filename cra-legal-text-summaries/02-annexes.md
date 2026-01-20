@@ -187,12 +187,16 @@ The annexes are ... **In short: annexes provide the “...”.**
 <details>
   <summary>
     <strong>
-      bold -
+      Critical products include -
     </strong>
-  regular
+  security hardware devices, smart meter gateways and other advanced secure cryptoprocessing devices, and smartcards/secure elements.
   </summary>
   <br/>
-  detail
+  <ol>
+  <li>Hardware Devices with Security Boxes</li>
+  <li>Smart meter gateways within smart metering systems as defined in Article 2, point (23) of Directive (EU) 2019/944 of the European Parliament and of the Council (1) and other devices for advanced security purposes, including for secure cryptoprocessing</li>
+  <li>Smartcards or similar devices, including secure elements</li>
+</ol>
   </details>
 <br/>
 
