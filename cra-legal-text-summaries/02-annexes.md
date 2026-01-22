@@ -4,8 +4,8 @@ The annexes are ... **In short: annexes provide the “...”.**
 
 **This version proposes simplified summaries as "TLDR;", but you can read the original text clicking on the summaries.**
 
-- **Estimated reading time (summaries only):** ~... minutes  
-- **Estimated reading time (full text + summaries):** ~... minutes
+- **Estimated reading time (summaries only):** ~5 minutes  
+- **Estimated reading time (full text + summaries):** ~30 minutes
 
 ## Annex I - Essential Cybersecurity Requirements
 
