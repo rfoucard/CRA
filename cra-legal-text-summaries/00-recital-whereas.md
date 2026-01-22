@@ -4,8 +4,8 @@ The “whereas” recitals explain why the law exists and what problems and goal
 
 **This version proposes simplified summaries as "TLDR;", but you can read the original text clicking on the summaries. It also groups the recitals by "logical themes" without changing the original ordering.**
 
-- **Estimated reading time (summaries only):** ~15 minutes  
-- **Estimated reading time (full text + summaries):** ~60 minutes
+- **Estimated reading time (summaries only):** ~20 min  
+- **Estimated reading time (full text + summaries):** ~2 hours
 
 ## 1. Context & objectives (recitals 1–8)
 
