@@ -462,14 +462,12 @@ The annexes are ... **In short: annexes provide the “...”.**
 
   <li>
     Quality system
-
     <p>3.1. The manufacturer shall lodge an application for assessment of its quality system with the notified body of its choice, for the products with digital elements concerned.</p>
     <p>The application shall include:</p>
     <p>(a) the name and address of the manufacturer and, if the application is lodged by the authorised representative, the name and address of that authorised representative;</p>
     <p>(b) the technical documentation for one model of each category of products with digital elements intended to be manufactured or developed. The technical documentation shall, wherever applicable, contain at least the elements as set out in Annex VII;</p>
     <p>(c) the documentation concerning the quality system; and</p>
     <p>(d) a written declaration that the same application has not been lodged with any other notified body.</p>
-
     <p>3.2. The quality system shall ensure compliance of the products with digital elements with the essential cybersecurity requirements set out in Part I of Annex I and compliance of the vulnerability handling processes put in place by the manufacturer with the requirements set out in Part II of Annex I.</p>
     <p>All the elements, requirements and provisions adopted by the manufacturer shall be documented in a systematic and orderly manner in the form of written policies, procedures and instructions. That quality system documentation shall permit a consistent interpretation of the quality programmes, plans, manuals and records.</p>
     <p>It shall, in particular, contain an adequate description of:</p>
@@ -481,15 +479,12 @@ The annexes are ... **In short: annexes provide the “...”.**
     <p>(f) the examinations and tests that will be carried out before, during and after production, and the frequency with which they will be carried out;</p>
     <p>(g) the quality records, such as inspection reports and test data, calibration data and qualification reports on the personnel concerned;</p>
     <p>(h) the means of monitoring the achievement of the required design and product quality and the effective operation of the quality system.</p>
-
     <p>3.3. The notified body shall assess the quality system to determine whether it satisfies the requirements referred to in point 3.2.</p>
     <p>It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the national standard that implements the relevant harmonised standard or technical specification.</p>
     <p>In addition to experience in quality management systems, the auditing team shall have at least one member experienced as an assessor in the relevant product field and product technology concerned, and shall have knowledge of the applicable requirements set out in this Regulation. The audit shall include an assessment visit to the manufacturer’s premises, where such premises exist. The auditing team shall review the technical documentation referred to in point 3.1 (b), to verify the manufacturer’s ability to identify the applicable requirements set out in this Regulation and to carry out the necessary examinations with a view to ensuring compliance of the product with digital elements with those requirements.</p>
     <p>The manufacturer or its authorised representative shall be notified of the decision.</p>
     <p>The notification shall contain the conclusions of the audit and the reasoned assessment decision.</p>
-
     <p>3.4. The manufacturer shall undertake to fulfil the obligations arising out of the quality system as approved and to maintain it so that it remains adequate and efficient.</p>
-
     <p>3.5. The manufacturer shall keep the notified body that has approved the quality system informed of any intended change to the quality system.</p>
     <p>The notified body shall evaluate any proposed changes and decide whether the modified quality system will continue to satisfy the requirements referred to in point 3.2 or whether a reassessment is necessary.</p>
     <p>It shall notify the manufacturer of its decision. The notification shall contain the conclusions of the examination and the reasoned assessment decision.</p>
@@ -497,22 +492,17 @@ The annexes are ... **In short: annexes provide the “...”.**
 
   <li>
     Surveillance under the responsibility of the notified body
-
     <p>4.1. The purpose of surveillance is to make sure that the manufacturer duly fulfils the obligations arising out of the approved quality system.</p>
-
     <p>4.2. The manufacturer shall, for assessment purposes, allow the notified body access to the design, development, production, inspection, testing and storage sites, and shall provide it with all necessary information, in particular:</p>
     <p>(a) the quality system documentation;</p>
     <p>(b) the quality records as provided for by the design part of the quality system, such as results of analyses, calculations and tests;</p>
     <p>(c) the quality records as provided for by the manufacturing part of the quality system, such as inspection reports and test data, calibration data and qualification reports on the personnel concerned.</p>
-
     <p>4.3. The notified body shall carry out periodic audits to make sure that the manufacturer maintains and applies the quality system and shall provide the manufacturer with an audit report.</p>
   </li>
 
   <li>
     Conformity marking and declaration of conformity
-
     <p>5.1. The manufacturer shall affix the CE marking, and, under the responsibility of the notified body referred to in point 3.1, the latter’s identification number to each individual product with digital elements that satisfies the requirements set out in Part I of Annex I.</p>
-
     <p>5.2. The manufacturer shall draw up a written declaration of conformity for each product model and keep it at the disposal of the national authorities for 10 years after the product with digital elements has been placed on the market or for the support period, whichever is longer. The declaration of conformity shall identify the product model for which it has been drawn up.</p>
     <p>A copy of the declaration of conformity shall be made available to the relevant authorities upon request.</p>
   </li>
